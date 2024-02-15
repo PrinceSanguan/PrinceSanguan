@@ -3,7 +3,10 @@
 - 🌱 Currently immersed in the world of Laravel for robust backend web development and exploring Flutter to seamlessly transform all my websites into dynamic mobile apps! 🚀📱
 - 💞️ Seeking collaboration with fellow problem solvers and innovators who share a passion for pushing boundaries and creating unprecedented solutions! Let's pioneer together! 🚀🌟
 - 📫 Reach out to me via email at princesanguan44@gmail.com and don't forget to drop me a message! 📬👋 Let's connect and chat!
-- ![Your Longest Streak](http://github-readme-streak-stats.herokuapp.com/?user=PrinceSanguan)
+<div align="center" style="padding-top: 20px; padding-bottom: 20px;">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=PrinceSanguan" alt="Your Longest Streak">
+</div>
+
 
 
 
