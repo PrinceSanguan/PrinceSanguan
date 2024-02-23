@@ -9,9 +9,8 @@
   ### Crypto Captcha
 
   Crypto Captcha is a Laravel-based web application designed for seamless cryptographic captchas. With distinct dashboards for players, agents, 
-  operators, and programmers, the platform offers a multifaceted experience.
+  operators, and programmers, the platform offers a multifaceted experience. Click here to see my project [Crypto Captcha](https://github.com/PrinceSanguan/Capchtcha_Laravel).
   
-  [Crypto Captcha](https://github.com/PrinceSanguan/Capchtcha_Laravel)
  ![Project Image](http://captcha.free.nf/images/cap.png)
 
 <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
