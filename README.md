@@ -6,7 +6,7 @@
 
   ## My Awesome Project
 
-- ![Project Image](https://captcha.free.nf/images/cap.png)
+- ![Project Image](http://captcha.free.nf/images/cap.png)
 
 <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=PrinceSanguan" alt="Your Longest Streak">
