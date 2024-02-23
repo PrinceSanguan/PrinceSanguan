@@ -4,9 +4,9 @@
 - 💞️ Seeking collaboration with fellow problem solvers and innovators who share a passion for pushing boundaries and creating unprecedented solutions! Let's pioneer together! 🚀🌟
 - 📫 Reach out to me via email at princesanguan44@gmail.com and don't forget to drop me a message! 📬👋 Let's connect and chat!
 
-  ## My Awesome Project
+  # My Awesome Project
   
-  ### Crypto Captcha
+  ## Crypto Captcha
 
   Crypto Captcha is a Laravel-based web application designed for seamless cryptographic captchas. With distinct dashboards for players, agents, 
   operators, and programmers, the platform offers a multifaceted experience. Click here to see my project [Crypto Captcha](https://github.com/PrinceSanguan/Capchtcha_Laravel).
@@ -15,7 +15,7 @@
   <img src="http://captcha.free.nf/images/cap.png" alt="Crypto Captcha">
 </div>
 
-  ### Job Portal Website
+  ## Job Portal Website
 
   Welcome to our Job Portal, a secure platform designed to streamline the job application process. Our website facilitates seamless communication between employers and potential 
   candidates, ensuring a smooth and efficient hiring experience. Click here to see my project [Job Portal](http://www.work-from-home.free.nf).
