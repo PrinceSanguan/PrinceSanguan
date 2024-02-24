@@ -28,8 +28,8 @@
 
 Welcome to our wedding website! This platform has been created to share the joy of our upcoming wedding celebration with our friends and family. It not only serves as an informational hub for the details of the wedding but also includes a special invitation feature.  Click here to see my project [here](https://github.com/PrinceSanguan/Wedding_Laravel).
 
-<div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <img src="https://princecarolwedding.free.nf/readme/front.png" alt="Wedding">
+ <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
+  <img src="http://princecarolwedding.free.nf/readme/front.png" alt="Wedding">
 </div>
 
 <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
