@@ -9,7 +9,7 @@
   ## Crypto Captcha
 
   Crypto Captcha is a Laravel-based web application designed for seamless cryptographic captchas. With distinct dashboards for players, agents, 
-  operators, and programmers, the platform offers a multifaceted experience. Click here to see my project [Crypto Captcha](https://github.com/PrinceSanguan/Capchtcha_Laravel).
+  operators, and programmers, the platform offers a multifaceted experience. Click here to see my project [here](https://github.com/PrinceSanguan/Capchtcha_Laravel).
   
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="http://captcha.free.nf/images/cap.png" alt="Crypto Captcha">
@@ -18,10 +18,18 @@
   ## Job Portal Website
 
   Welcome to our Job Portal, a secure platform designed to streamline the job application process. Our website facilitates seamless communication between employers and potential 
-  candidates, ensuring a smooth and efficient hiring experience. Click here to see my project [Job Portal](https://github.com/PrinceSanguan/Job_Portal_Laravel).
+  candidates, ensuring a smooth and efficient hiring experience. Click here to see my project [here](https://github.com/PrinceSanguan/Job_Portal_Laravel).
   
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="http://work-from-home.free.nf/img/fish.png" alt="Job Portal">
+</div>
+
+## Wedding Website
+
+Welcome to our wedding website! This platform has been created to share the joy of our upcoming wedding celebration with our friends and family. It not only serves as an informational hub for the details of the wedding but also includes a special invitation feature.  Click here to see my project [here](https://github.com/PrinceSanguan/Job_Portal_Laravel).
+
+<div align="center" style="padding-top: 20px; padding-bottom: 20px;">
+  <img src="http://princecarolwedding.free.nf/readme/front.png" alt="Wedding">
 </div>
 
 <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
