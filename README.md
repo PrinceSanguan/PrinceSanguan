@@ -8,18 +8,6 @@
 - 💞️ Seeking collaboration with fellow problem solvers and innovators who share a passion for pushing boundaries and creating unprecedented solutions! Let's pioneer together! 🚀🌟
 - 📫 Reach out to me via email at princesanguan44@gmail.com and don't forget to drop me a message! 📬👋 Let's connect and chat!
 
-<div align="left">
-    <a href="https://www.facebook.com/x3ef8">
-        <img src="https://img.shields.io/badge/-x3ef8-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Grandmaster1997" alt="Stalk Me, also click FOLLOW button">https://facebook.com/Grandmaster1997
-    </a>
-    <a href="https://user-badge.committers.top/philippines/0x3EF8">
-        <img src="https://user-badge.committers.top/philippines/0x3EF8.svg" alt="committers.top badge">
-    </a>
-    <img align="right" src="https://komarev.com/ghpvc/?username=0x3ef8&label=Profile%20Views&color=565f89&style=flat" alt="Views">
-</div>
-
-
-
   # My Awesome Project
   
   ## Crypto Captcha
