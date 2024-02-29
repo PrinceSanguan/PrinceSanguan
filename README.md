@@ -46,10 +46,6 @@ Welcome to our wedding website! This platform has been created to share the joy 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princesanguan&" alt="princesanguan" /></p>
 
-<div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=PrinceSanguan" alt="Your Longest Streak">
-</div>
-
 
 
 
