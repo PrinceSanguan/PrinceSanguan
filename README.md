@@ -1,8 +1,5 @@
 <div align="center">
     <img width="100%" src="https://cdn.jsdelivr.net/gh/0x3EF8/0x3EF8/header_.png" />
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=princesanguan&show_icons=true&locale=en&layout=compact" alt="princesanguan" /></p>
-    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=princesanguan&show_icons=true&locale=en" alt="princesanguan" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=princesanguan&" alt="princesanguan" /></p>
 </div>
 
 - 👋 Hi, I’m @PrinceSanguan
