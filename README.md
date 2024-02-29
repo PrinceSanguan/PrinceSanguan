@@ -1,3 +1,7 @@
+<div align="center">
+    <img width="100%" src="https://cdn.jsdelivr.net/gh/0x3EF8/0x3EF8/header_.png" />
+</div>
+
 - 👋 Hi, I’m @PrinceSanguan
 - 🚀 Passionate about Web Development, Chess Puzzles, and the art of logical thinking! 👨‍💻🔍
 - 🌱 Currently immersed in the world of Laravel for robust backend web development and exploring Flutter to seamlessly transform all my websites into dynamic mobile apps! 🚀📱
@@ -14,9 +18,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=0x3ef8&label=Profile%20Views&color=565f89&style=flat" alt="Views">
 </div>
 
-<div align="center">
-    <img width="100%" src="https://cdn.jsdelivr.net/gh/0x3EF8/0x3EF8/header_.png" />
-</div>
+
 
   # My Awesome Project
   
