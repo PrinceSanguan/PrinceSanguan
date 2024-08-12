@@ -9,6 +9,8 @@
 - 📫 Reach out to me via email at princesanguan44@gmail.com and don't forget to drop me a message! 📬👋 Let's connect and chat!
 
   # My Awesome Project
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrinceSanguan&theme=onedark)](https://github.com/PrinceSanguan/github-profile-trophy)
   
   ## Crypto Captcha
 
