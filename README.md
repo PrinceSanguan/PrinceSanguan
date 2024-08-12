@@ -38,7 +38,7 @@ Welcome to our wedding website! This platform has been created to share the joy 
 
 ## Learning Management Portal
 
-Welcome to our Learning Management Portal! This platform has been meticulously crafted to facilitate seamless learning experiences for students and educators alike. It serves as a comprehensive hub for course materials, assignments, and communication channels. Click here to explore the project [here](https://github.com/PrinceSanguan/Module_Repository_Laravel).
+Welcome to our Learning Management Portal! This platform has been meticulously crafted to facilitate seamless learning experiences for students and educators alike. It serves as a comprehensive hub for course materials, assignments, and communication channels. Click here to explore the project [here](https://ivnmodule.free.nf).
 
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="http://ivnmodule.free.nf/images/readme.png" alt="ivn">
