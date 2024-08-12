@@ -13,7 +13,7 @@
   ## Crypto Captcha
 
   Crypto Captcha is a Laravel-based web application designed for seamless cryptographic captchas. With distinct dashboards for players, agents, 
-  operators, and programmers, the platform offers a multifaceted experience. Click here to see my project [here](https://github.com/PrinceSanguan/Capchtcha_Laravel).
+  operators, and programmers, the platform offers a multifaceted experience. Click here to see my project [here](https://captcha.free.nf).
   
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="http://captcha.free.nf/images/cap.png" alt="Crypto Captcha">
@@ -30,7 +30,7 @@
 
 ## Wedding Website
 
-Welcome to our wedding website! This platform has been created to share the joy of our upcoming wedding celebration with our friends and family. It not only serves as an informational hub for the details of the wedding but also includes a special invitation feature.  Click here to see my project [here](https://github.com/PrinceSanguan/Wedding_Laravel).
+Welcome to our wedding website! This platform has been created to share the joy of our upcoming wedding celebration with our friends and family. It not only serves as an informational hub for the details of the wedding but also includes a special invitation feature.  Click here to see my project [here](https://princecarolwedding.free.nf/).
 
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="http://princecarolwedding.free.nf/images/carousel-1.jpg" alt="Wedding">
