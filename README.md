@@ -22,7 +22,7 @@
   ## Job Portal Website
 
   Welcome to our Job Portal, a secure platform designed to streamline the job application process. Our website facilitates seamless communication between employers and potential 
-  candidates, ensuring a smooth and efficient hiring experience. Click here to see my project [here](https://github.com/PrinceSanguan/Job_Portal_Laravel).
+  candidates, ensuring a smooth and efficient hiring experience. Click here to see my project [here](https://work-from-home.free.nf).
   
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="http://work-from-home.free.nf/img/fish.png" alt="Job Portal">
