@@ -8,6 +8,13 @@
 - 💞️ Seeking collaboration with fellow problem solvers and innovators who share a passion for pushing boundaries and creating unprecedented solutions! Let's pioneer together! 🚀🌟
 - 📫 Reach out to me via email at princesanguan44@gmail.com and don't forget to drop me a message! 📬👋 Let's connect and chat!
 
+<!-- GitHub Profile Views Counter -->
+<div align="center">
+    <a href="https://github.com/PrinceSanguan">
+        <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="PrinceSanguan's Profile Views" />
+    </a>
+</div>
+
   # My Awesome Project
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PrinceSanguan&theme=onedark)](https://github.com/PrinceSanguan/github-profile-trophy)
