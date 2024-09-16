@@ -1,10 +1,17 @@
-[![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/PrinceSanguan)
 
-<!-- GitHub Profile Views Counter -->
-<div align="right">
-    <a href="https://github.com/PrinceSanguan">
-        <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="PrinceSanguan's Profile Views" />
-    </a>
+
+<!-- GitHub Profile Views Counter and commited -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+        <!-- Committers badge on the left -->
+        [![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/PrinceSanguan)
+    </div>
+    <div>
+        <!-- Profile views on the right -->
+        <a href="https://github.com/PrinceSanguan">
+            <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="PrinceSanguan's Profile Views" />
+        </a>
+    </div>
 </div>
 
 <div align="center">
@@ -16,13 +23,6 @@
 - 🌱 Currently immersed in the world of Laravel for robust backend web development and exploring Flutter to seamlessly transform all my websites into dynamic mobile apps! 🚀📱
 - 💞️ Seeking collaboration with fellow problem solvers and innovators who share a passion for pushing boundaries and creating unprecedented solutions! Let's pioneer together! 🚀🌟
 - 📫 Reach out to me via email at princesanguan44@gmail.com and don't forget to drop me a message! 📬👋 Let's connect and chat!
-
-<!-- GitHub Profile Views Counter -->
-<div align="center">
-    <a href="https://github.com/PrinceSanguan">
-        <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="PrinceSanguan's Profile Views" />
-    </a>
-</div>
 
   # My Awesome Project
 
