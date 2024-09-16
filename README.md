@@ -3,10 +3,6 @@
 <!-- GitHub Profile Views Counter and commited -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div>
-        <!-- Committers badge on the left -->
-        [![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/PrinceSanguan)
-    </div>
-    <div>
         <!-- Profile views on the right -->
         <a href="https://github.com/PrinceSanguan">
             <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="PrinceSanguan's Profile Views" />
