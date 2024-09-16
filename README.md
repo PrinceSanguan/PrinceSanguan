@@ -1,5 +1,12 @@
 [![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/PrinceSanguan)
 
+<!-- GitHub Profile Views Counter -->
+<div align="right">
+    <a href="https://github.com/PrinceSanguan">
+        <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="PrinceSanguan's Profile Views" />
+    </a>
+</div>
+
 <div align="center">
     <img width="100%" src="https://cdn.jsdelivr.net/gh/0x3EF8/0x3EF8/header_.png" />
 </div>
