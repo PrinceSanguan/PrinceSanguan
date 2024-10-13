@@ -20,9 +20,7 @@
 - 💞️ Seeking collaboration with fellow problem solvers and innovators who share a passion for pushing boundaries and creating unprecedented solutions! Let's pioneer together! 🚀🌟
 - 📫 Reach out to me via email at princesanguan44@gmail.com and don't forget to drop me a message! 📬👋 Let's connect and chat!
 
-  # My Awesome Project
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrinceSanguan&theme=onedark)](https://github.com/PrinceSanguan/github-profile-trophy)
+# My Awesome Project
 
 ## Free Site Guys
 Introducing our groundbreaking SAAS platform that empowers users to effortlessly create their own unique websites in just 10 seconds using advanced AI technology. This is our first foray into the world of AI-powered website generation, and we're excited to revolutionize the way people build their online presence. Click [here](https://sjamartialarts.com) to see the project and try it yourself :)
