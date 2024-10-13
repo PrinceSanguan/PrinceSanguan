@@ -70,7 +70,7 @@ So, this is what we did for our UK-based client whose business is martial arts i
 Introducing our groundbreaking SAAS platform that empowers users to effortlessly create their own unique websites in just 10 seconds using advanced AI technology. This is our first foray into the world of AI-powered website generation, and we're excited to revolutionize the way people build their online presence. Click [here](https://sjamartialarts.com) to see the project and try it yourself :)
 
 <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <img src="https://sjamartialarts.com/images/readme.png" alt="ivn">
+  <img src="https://freesiteguys.com/images/readme.png" alt="free-site-guys-image">
 </div>
 
 
