@@ -23,6 +23,13 @@
   # My Awesome Project
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PrinceSanguan&theme=onedark)](https://github.com/PrinceSanguan/github-profile-trophy)
+
+## Free Site Guys
+Introducing our groundbreaking SAAS platform that empowers users to effortlessly create their own unique websites in just 10 seconds using advanced AI technology. This is our first foray into the world of AI-powered website generation, and we're excited to revolutionize the way people build their online presence. Click [here](https://sjamartialarts.com) to see the project and try it yourself :)
+
+<div align="center" style="padding-top: 20px; padding-bottom: 20px;">
+  <img src="https://freesiteguys.com/images/readme.png" alt="free-site-guys-image">
+</div>
   
   ## Crypto Captcha
 
@@ -65,14 +72,6 @@ So, this is what we did for our UK-based client whose business is martial arts i
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="https://sjamartialarts.com/images/readme.png" alt="ivn">
 </div>
-
-## Free Site Guys
-Introducing our groundbreaking SAAS platform that empowers users to effortlessly create their own unique websites in just 10 seconds using advanced AI technology. This is our first foray into the world of AI-powered website generation, and we're excited to revolutionize the way people build their online presence. Click [here](https://sjamartialarts.com) to see the project and try it yourself :)
-
-<div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <img src="https://freesiteguys.com/images/readme.png" alt="free-site-guys-image">
-</div>
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
