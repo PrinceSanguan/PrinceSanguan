@@ -49,10 +49,10 @@ Introducing our groundbreaking SAAS platform that empowers users to effortlessly
 
 ## Wedding Website
 
-Welcome to our wedding website! This platform has been created to share the joy of our upcoming wedding celebration with our friends and family. It not only serves as an informational hub for the details of the wedding but also includes a special invitation feature.  Click here to see my project [here](https://princecarolwedding.free.nf/).
+Welcome to our wedding website! This platform has been created to share the joy of our upcoming wedding celebration with our friends and family. It not only serves as an informational hub for the details of the wedding but also includes a special invitation feature.  Click [here](https://princecarolwedding.free.nf/) to see my project.
 
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <img src="http://princecarolwedding.free.nf/images/carousel-1.jpg" alt="Wedding">
+  <img src="http://princecarolwedding.free.nf/images/readme.png" alt="Wedding">
 </div>
 
 ## Learning Management Portal
