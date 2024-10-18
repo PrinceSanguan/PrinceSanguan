@@ -41,10 +41,10 @@ Introducing our groundbreaking SAAS platform that empowers users to effortlessly
   ## Job Portal Website
 
   Welcome to our Job Portal, a secure platform designed to streamline the job application process. Our website facilitates seamless communication between employers and potential 
-  candidates, ensuring a smooth and efficient hiring experience. Click here to see my project [here](https://work-from-home.free.nf).
+  candidates, ensuring a smooth and efficient hiring experience. Click [here](https://work-from-home.free.nf) to see my project.
   
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <img src="http://work-from-home.free.nf/img/fish.png" alt="Job Portal">
+  <img src="http://work-from-home.free.nf/img/readme.png" alt="Job Portal">
 </div>
 
 ## Wedding Website
