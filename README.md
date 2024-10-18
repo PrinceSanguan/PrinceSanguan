@@ -32,10 +32,10 @@ Introducing our groundbreaking SAAS platform that empowers users to effortlessly
   ## Crypto Captcha
 
   Crypto Captcha is a Laravel-based web application designed for seamless cryptographic captchas. With distinct dashboards for players, agents, 
-  operators, and programmers, the platform offers a multifaceted experience. Click here to see my project [here](https://captcha.free.nf).
+  operators, and programmers, the platform offers a multifaceted experience. Click [here](https://captcha.free.nf) to see my project.
   
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <img src="http://captcha.free.nf/images/cap.png" alt="Crypto Captcha">
+  <img src="http://captcha.free.nf/images/readme.png" alt="Crypto Captcha">
 </div>
 
   ## Job Portal Website
