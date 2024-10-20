@@ -28,6 +28,14 @@ Introducing our groundbreaking SAAS platform that empowers users to effortlessly
 <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="https://freesiteguys.com/images/readme.png" alt="free-site-guys-image">
 </div>
+
+## SJA Martial Arts
+
+So, this is what we did for our UK-based client whose business is martial arts in Swansea. They wanted a website to increase their business visibility. We worked on this project for two months and it has achieved a high SEO ranking on Google search.[here](https://sjamartialarts.com).
+
+ <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
+  <img src="https://sjamartialarts.com/images/readme.png" alt="ivn">
+</div>
   
   ## Crypto Captcha
 
@@ -61,14 +69,6 @@ Welcome to our Learning Management Portal! This platform has been meticulously c
 
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="http://ivnmodule.free.nf/images/readme.png" alt="ivn">
-</div>
-
-## SJA Martial Arts
-
-So, this is what we did for our UK-based client whose business is martial arts in Swansea. They wanted a website to increase their business visibility. We worked on this project for two months and it has achieved a high SEO ranking on Google search.[here](https://sjamartialarts.com).
-
- <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <img src="https://sjamartialarts.com/images/readme.png" alt="ivn">
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
