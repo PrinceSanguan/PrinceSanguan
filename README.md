@@ -73,6 +73,14 @@ Welcome to our Learning Management Portal! This platform has been meticulously c
 
 # My Capstone Client Project
 
+## Samgyup Management System
+
+Welcome to my Samgyupsal Management System! This system was developed for one of my student clients as a capstone project. This website includes an admin dashboard built using AdminLTE, and the framework used is Laravel. Click [here](https://https://dadsburger.free.nf) to see the system. It’s similar to a POS system, but not exactly
+
+ <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
+  <img src="http://dadsburger.free.nf/images/readme.png" alt="dads-burger-image">
+</div>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
