@@ -10,26 +10,60 @@
     </div>
 </div>
 
+<!-- GitHub Profile Introduction -->
 <div align="center">
-    <img width="100%" src="https://cdn.jsdelivr.net/gh/0x3EF8/0x3EF8/header_.png" />
+    <h2>👋 Hi, I'm Prince Sanguan!</h2>
+    <p>
+        I'm a dedicated web developer with a passion for creating impactful digital experiences.
+        With expertise in <strong>Laravel, PHP</strong>, and frontend technologies, I craft robust,
+        efficient, and visually appealing web applications. Every project I take on—whether it's a 
+        SaaS platform, a custom website, or a mobile app integration—reflects my commitment to 
+        innovation and quality.
+    </p>
+    <br>
+    
+    <h3>🔹 What I’m Working On:</h3>
+    <p>
+        Currently delving into <strong>Laravel</strong> for powerful backend development while 
+        expanding my skills in <strong>Flutter</strong> to transform websites into responsive 
+        mobile applications.
+    </p>
+    <br>
+    
+    <h3>🔹 Why Work With Me:</h3>
+    <p>
+        I'm driven by a love for problem-solving, a keen attention to detail, and a commitment to 
+        delivering results that exceed expectations. From seamless UI design to scalable backend 
+        solutions, I ensure each project is optimized for both functionality and user experience.
+    </p>
+    <br>
+    
+    <h3>🔹 Let’s Collaborate:</h3>
+    <p>
+        I'm excited to connect with other developers and organizations who share a vision for 
+        pioneering solutions. Whether it’s building new features, optimizing applications, or 
+        tackling complex challenges, I'm ready to contribute my skills.
+    </p>
+    <br>
+    
+    <h3>📫 Reach Out:</h3>
+    <p>
+        Feel free to email me at <a href="mailto:princesanguan44@gmail.com">princesanguan44@gmail.com</a> 
+        or connect with me here on GitHub. Let’s chat about how we can work together to create 
+        something exceptional!
+    </p>
 </div>
-
-- 👋 Hi, I’m @PrinceSanguan!
-- 🚀 Passionate about Web Development, Chess Puzzles, and the art of logical thinking! 👨‍💻🔍
-- 🌱 Currently immersed in the world of Laravel for robust backend web development and exploring Flutter to seamlessly transform all my websites into dynamic mobile apps! 🚀📱
-- 💞️ Seeking collaboration with fellow problem solvers and innovators who share a passion for pushing boundaries and creating unprecedented solutions! Let's pioneer together! 🚀🌟
-- 📫 Reach out to me via email at princesanguan44@gmail.com and don't forget to drop me a message! 📬👋 Let's connect and chat!
 
 # My Awesome Project
 
-## Choros.io
+## 1. Choros.io
 Introducing our groundbreaking SAAS platform that empowers users to effortlessly create their own unique websites in just 10 seconds using advanced AI technology. This is our first foray into the world of AI-powered website generation, and we're excited to revolutionize the way people build their online presence. Click [here](https://choros.io) to see the project and try it yourself :)
 
 <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="https://choros.io/images/readme.png" alt="free-site-guys-image">
 </div>
 
-## SJA Martial Arts
+## 2. SJA Martial Arts
 
 So, this is what we did for our UK-based client whose business is martial arts in Swansea. They wanted a website to increase their business visibility. We worked on this project for two months and it has achieved a high SEO ranking on Google search.[here](https://sjamartialarts.com).
 
@@ -37,7 +71,7 @@ So, this is what we did for our UK-based client whose business is martial arts i
   <img src="https://sjamartialarts.com/images/readme.png" alt="ivn">
 </div>
   
-  ## Crypto Captcha
+  ## 3. Crypto Captcha
 
   Crypto Captcha is a Laravel-based web application designed for seamless cryptographic captchas. With distinct dashboards for players, agents, 
   operators, and programmers, the platform offers a multifaceted experience. Click [here](https://captcha.free.nf) to see my project.
@@ -46,16 +80,16 @@ So, this is what we did for our UK-based client whose business is martial arts i
   <img src="http://captcha.free.nf/images/readme.png" alt="Crypto Captcha">
 </div>
 
-  ## Job Portal Website
+  ## 4. Job Portal Website
 
   Welcome to our Job Portal, a secure platform designed to streamline the job application process. Our website facilitates seamless communication between employers and potential 
-  candidates, ensuring a smooth and efficient hiring experience. Click [here](https://work-from-home.free.nf) to see my project.
+  candidates, ensuring a smooth and efficient hiring experience. Click [here](https://work-from-home.free.nf) to see my project. the credential is admin@gmail.com and the password is admin.
   
  <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="http://work-from-home.free.nf/img/readme.png" alt="Job Portal">
 </div>
 
-## Wedding Website
+## 5. Wedding Website
 
 Welcome to our wedding website! This platform has been created to share the joy of our upcoming wedding celebration with our friends and family. It not only serves as an informational hub for the details of the wedding but also includes a special invitation feature.  Click [here](https://princecarolwedding.free.nf/) to see my project.
 
@@ -63,7 +97,7 @@ Welcome to our wedding website! This platform has been created to share the joy 
   <img src="http://princecarolwedding.free.nf/images/readme.png" alt="Wedding">
 </div>
 
-## Learning Management Portal
+## 6. Learning Management Portal
 
 Welcome to our Learning Management Portal! This platform has been meticulously crafted to facilitate seamless learning experiences for students and educators alike. It serves as a comprehensive hub for course materials, assignments, and communication channels. Click [here](https://ivnmodule.free.nf) to explore the project. The default username and password is 'admin'.
 
@@ -73,7 +107,7 @@ Welcome to our Learning Management Portal! This platform has been meticulously c
 
 # My Capstone Client Project
 
-## Samgyup Management System
+## 1. Samgyup Management System
 
 Welcome to my Samgyupsal Management System! This system was developed for one of my student clients as a capstone project. This website includes an admin dashboard built using AdminLTE, and the framework used is Laravel. Click [here](https://https://dadsburger.free.nf) to see the system. It’s similar to a POS system, but not exactly
 
