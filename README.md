@@ -26,7 +26,7 @@
 Introducing our groundbreaking SAAS platform that empowers users to effortlessly create their own unique websites in just 10 seconds using advanced AI technology. This is our first foray into the world of AI-powered website generation, and we're excited to revolutionize the way people build their online presence. Click [here](https://choros.io) to see the project and try it yourself :) and see it!
 
 <div align="center" style="padding-top: 20px; padding-bottom: 20px;">
-  <img src="https://choros.io/images/readme.png" alt="free-site-guys-image">
+  <img src="https://choros.io/images/readme.png" alt="choros-io-image">
 </div>
 
 ## 2. SJA Martial Arts
