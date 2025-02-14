@@ -10,10 +10,6 @@
     </div>
 </div>
 
-<div align="center">
-    <img width="100%" src="https://cdn.jsdelivr.net/gh/0x3EF8/0x3EF8/header_.png" />
-</div>
-
 - 👋 Hi, I’m @PrinceSanguan!
 - 🚀 Passionate about Web Development, Chess Puzzles, and the art of logical thinking! 👨‍💻🔍
 - 🌱 Currently immersed in the world of Laravel for robust backend web development and exploring Flutter to seamlessly transform all my websites into dynamic mobile apps! 🚀📱
