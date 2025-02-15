@@ -92,7 +92,5 @@
 </div>
 
 <div align="center">
-  <br/>
-  <p><i>🚀 Let's turn your ideas into exceptional digital experiences!</i></p>
-    [![Profile Views](https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/PrinceSanguan)
+  [![Profile Views](https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/PrinceSanguan)
 </div>
