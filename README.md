@@ -94,5 +94,5 @@
 <div align="center">
   <br/>
   <p><i>🚀 Let's turn your ideas into exceptional digital experiences!</i></p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=PrinceSanguan.PrinceSanguan" alt="Visitor Count">
+    [![Profile Views](https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/PrinceSanguan)
 </div>
