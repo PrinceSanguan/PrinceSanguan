@@ -21,7 +21,7 @@
 - 💻 **Full Stack Developer** specializing in Laravel and Web Development
 - 📱 Currently exploring **Flutter** for cross-platform mobile development
 - ♟️ Chess puzzle enthusiast with **2200+** Chess.com bullet rating
-- 🎓 Bachelor in science in Statistics graduate with **4 years** professional experience
+- 🎓 Bachelor of science in Statistics graduate with **4 years** professional experience
 - 🤝 Open to collaborating on innovative web projects
 
 ---
