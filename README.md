@@ -54,7 +54,7 @@
 🛠️ Laravel • React • TensorFlow • MySQL
 
 <div align="center">
-  <img src="<img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/readme.png" />" alt="choros-io" width="600">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/readme.png" alt="choros-io" width="600">
 </div>
 
 ### 2. SJA Martial Arts Academy
