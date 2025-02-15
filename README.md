@@ -20,8 +20,8 @@
 ## 🚀 About Me
 - 💻 **Full Stack Developer** specializing in Laravel and Web Development
 - 📱 Currently exploring **Flutter** for cross-platform mobile development
-- ♟️ Chess puzzle enthusiast with **1700+** Chess.com rapid rating
-- 🎓 Computer Science graduate with **4 years** professional experience
+- ♟️ Chess puzzle enthusiast with **2200+** Chess.com bullet rating
+- 🎓 Bachelor in science in Statistics graduate with **4 years** professional experience
 - 🤝 Open to collaborating on innovative web projects
 
 ---
@@ -144,10 +144,10 @@
   <a href="mailto:princesanguan44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="YOUR_TWITTER_URL">
+  <a href="https://x.com/prince_san84921">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </div>
