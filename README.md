@@ -56,7 +56,7 @@
   </a>
   
   <div style="margin: 30px 0;">
-    <img src="https://www.psanguan.com/images/readme.png" alt="Portfolio Preview" width="650" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+    <img src="https://www.psanguan.com/images/portfolio.png" alt="Portfolio Preview" width="650" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
   </div>
   
   <p>✨ <i>Where creativity meets functionality</i> ✨</p>
