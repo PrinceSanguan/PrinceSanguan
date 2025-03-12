@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Prince Sanguan</h1>
   <h3>Full Stack Web Developer | Laravel Specialist | Mobile App Enthusiast | Chess Player</h3>
-  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="mailto:princesanguan44@gmail.com">
@@ -11,10 +10,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+digital+reality;Clean+code+advocate;Continuous+learner" alt="Typing SVG" />
 </div>
-
 ---
 
 ## 🚀 About Me
