@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hello, I'm Prince Sanguan</h1>
   <h3>Full Stack Web Developer | Laravel Specialist | Mobile App Enthusiast | Chess Player</h3>
+  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="mailto:princesanguan44@gmail.com">
@@ -10,8 +11,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+digital+reality;Clean+code+advocate;Continuous+learner" alt="Typing SVG" />
 </div>
+
 ---
 
 ## 🚀 About Me
@@ -49,11 +52,11 @@
   <p>Visit my website where you'll discover beautiful creations crafted with hardwork and love!</p>
   
   <a href="https://www.psanguan.com">
-    <img src="https://www.psanguan.com/images/portfolio.png" alt="Visit My Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Portfolio" />
   </a>
   
   <div style="margin: 30px 0;">
-    <img src="https://www.psanguan.com/images/portfolio.png" alt="Portfolio Preview" width="650" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+    <img src="https://www.psanguan.com/images/readme.png" alt="Portfolio Preview" width="650" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
   </div>
   
   <p>✨ <i>Where creativity meets functionality</i> ✨</p>
