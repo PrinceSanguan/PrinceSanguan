@@ -55,10 +55,6 @@
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Portfolio" />
   </a>
   
-  <div style="margin: 30px 0;">
-    <img src="https://www.psanguan.com/images/portfolio.png" alt="Portfolio Preview" width="650" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
-  </div>
-  
   <p>✨ <i>Where creativity meets functionality</i> ✨</p>
 </div>
 
