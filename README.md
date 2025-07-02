@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 - 💻 **Full Stack Developer** specializing in Laravel and Web Development
-- 📱 Currently exploring **Flutter** for cross-platform mobile development
+- 📱 Currently exploring **React Native** for cross-platform mobile development
 - ♟️ Chess puzzle enthusiast with **2200+** Chess.com bullet rating
 - 🎓 Bachelor of science in Statistics graduate
 - 🤝 Open to collaborating on innovative web projects
