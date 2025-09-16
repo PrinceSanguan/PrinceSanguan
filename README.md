@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Prince Sanguan</h1>
-  <h3>Full Stack Web Developer | Laravel Specialist | Mobile App Enthusiast | Chess Player</h3>
+  <h3>Full Stack Web Developer | Laravel Developer | Mobile App Enthusiast | Chess Player</h3>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
