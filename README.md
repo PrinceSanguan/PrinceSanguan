@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello, I'm Prince Sanguan</h1>
+  <h1>👋 Hello, I'm Prince Sanguan :)</h1>
   <h3>Full Stack Web Developer | Laravel Developer | Mobile App Enthusiast | Chess Player</h3>
   
   <p align="center">
