@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Prince Sanguan :)</h1>
-  <h3>Full Stack Web Developer | Laravel Developer | Mobile App Enthusiast | Chess Player</h3>
+  <h3>Full Stack Web Developer | Founder of ChessUno.com | Laravel Developer</h3>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,6 +18,7 @@
 ---
 
 ## 🚀 About Me
+- 🏆 **Founder of ChessUno.com** - The #1 chess website in the Philippines
 - 💻 **Full Stack Developer** specializing in Laravel and Web Development
 - 📱 Currently exploring **React Native** for cross-platform mobile development
 - ♟️ Chess puzzle enthusiast with **2200+** Chess.com bullet rating
@@ -43,6 +44,17 @@
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🏆 Featured Project
+<div align="center">
+  <h3>♟️ ChessUno.com - Philippines' #1 Chess Platform</h3>
+  <p>The leading chess website in the Philippines, providing chess puzzles, games, and resources to the Filipino chess community.</p>
+  <a href="https://chessuno.com">
+    <img src="https://img.shields.io/badge/Visit_ChessUno-FF6B6B?style=for-the-badge&logo=chess&logoColor=white" alt="Visit ChessUno" />
+  </a>
+</div>
 
 ---
 
