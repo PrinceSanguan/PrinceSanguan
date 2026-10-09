@@ -1,165 +1,202 @@
 <div align="center">
 
-# 🔥 I Build Complete Systems in 24-48 Hours While You're Still Setting Up Your Dev Environment
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1400&color=FF6B35&center=true&vCenter=true&width=720&lines=AI+Full+Stack+Engineer;Laravel+%C2%B7+React+19+%C2%B7+TypeScript+%C2%B7+PostgreSQL+17;Claude-powered+pipelines+%26+native+mobile+clients;6%2B+years+shipping+production+systems" alt="AI Full Stack Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=I+shipped+12+production+apps+this+year.;Others+are+still+watching+tutorials.;Your+capstone+system+in+1-2+days.+Facts.;Laravel+%2B+React+%2B+PostgreSQL+%3D+%E2%9C%85;Turning+Filipinos%27+ideas+into+real+software." alt="Typing SVG" />
+# Prince E. Sanguan
+
+**AI Full Stack Engineer** &nbsp;·&nbsp; Silang, Cavite, Philippines 🇵🇭
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Devs+Who+Checked+My+Profile&color=FF6B35&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Currently_Building_Something_Crazy-success?style=flat" />
-  <img src="https://img.shields.io/badge/Clients_Served-100%2B_Filipino_Students-blue?style=flat" />
+  <a href="https://psanguan.com"><img src="https://img.shields.io/badge/Portfolio-psanguan.com-FF6B35?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:princesanguan44@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.tiktok.com/@studentwebsolutions"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20views&color=FF6B35&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-<div align="center">
+I build production software end to end — **PostgreSQL schema and queued LLM pipelines through to typed React interfaces and native mobile clients.**
 
-## ⚠️ WARNING: This Profile Will Make You Question Why You're Still Paying ₱80,000 for a Capstone System
+Currently **AI Full Stack Engineer at Choros IO Limited**, where I'm the primary developer of a multi-tenant FX risk-management platform for corporate treasury, and lead developer of two Claude-powered products. On the side I ship a chess-coaching SaaS that's live on the **App Store** and **Google Play**.
 
-</div>
-
-I'm **Prince Sanguan** — a Full Stack Web Developer from the Philippines who actually ships.
-
-Not a tutorial watcher. Not a "I'm still learning" guy. I build and deploy **real production systems** that real clients use, every week.
-
-- 🚀 **Founder of [StudentWebSolutions.com](https://studentwebsolutions.com)** — built 12+ live production systems
-- ⚡ I deliver complete capstone/thesis systems **in 1–2 days** starting at **₱10,000**
-- 🏆 My clients pass their thesis defense. That's the only metric that matters.
-- 🎓 BS Statistics graduate who codes better than most CS grads (controversial but true)
-- 🌍 Clients from Philippines, USA, Colombia, and counting
+- 🏦 **~2,950 of 3,195 commits** on a production FX risk platform — 93% of the codebase
+- ♟️ **10,000+ users · 100+ paying subscribers** on an app I built and shipped solo
+- 🎓 **6+ years** professional experience · BS Statistics, Rizal Technological University
+- 🧠 Claude / Gemini pipelines with **verbatim-quote verification** — unverifiable claims get discarded, not counted
 
 ---
 
-## 🤯 The System I Built That Made My Client's Thesis Committee Say "Where Did You Get This?"
+## 🚀 Flagship Work
+
+| Project | Role | Scale | Stack |
+|---|---|---|---|
+| **HedgePoint** — FX Risk Management Platform <br/><sub>🔒 Private repo — corporate treasury, no public link</sub> | Primary developer | ~2,950 / 3,195 commits · shipping weekly | Laravel 12 · React 19 · TypeScript · PostgreSQL 17 · Inertia |
+| **Biyaherong Chess Coach** — Chess Coaching SaaS | Sole developer | 10,000+ users · 100+ paying · iOS + Android | Laravel 11 · React Native (Expo) · Swift · Python FastAPI · PostgreSQL |
+| **Cold Call Playbook** — LLM Call Analytics | Lead developer | Production · 165 commits | Laravel 13 · React 19 · Anthropic Claude · PostgreSQL 17 |
+| **BEN SaaS** — Athlete Training Platform | Sole developer | 307 / 342 commits · live with coaches & athletes | Laravel · React 19 · TypeScript · PostgreSQL |
+| **MapiLeads** — AI Lead Generation SaaS | Sole developer | Bring-your-own-key, per-tenant spend control | Laravel 13 · React 19 · Google Maps Platform · Claude |
+
+**HedgePoint** — trade ledger, hedge simulator, back-testing, broker benchmarking and eight audit reports across six permission-scoped roles, with live pricing from third-party market-data APIs. I replaced a 1,457-line single-file app behind a shared password, a Node microservice backed by loose JSON files, and a nightly cron on a DigitalOcean droplet with **one Laravel + React + PostgreSQL application** with real accounts and an auditable verification gate on every number.
+
+---
+
+## 📱 Live on the App Stores
 
 <div align="center">
 
-### 🌐 [StudentWebSolutions.com](https://studentwebsolutions.com) — Where Systems Get Built, Not Promised
+### ♟️ Biyaherong Chess Coach
 
-<a href="https://studentwebsolutions.com">
-  <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-FF6B35?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
+**Sole developer** — backend, mobile API, React Native app, and a full native Swift port.
+
+<a href="https://play.google.com/store/apps/details?id=com.prince24pogi.biyaherongchessapp&hl=en">
+  <img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" />
 </a>
-<a href="https://www.facebook.com/people/StudentwebSolution/61560390520092/">
-  <img src="https://img.shields.io/badge/💬_Message_Me_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+<a href="https://apps.apple.com/us/app/biyaherong-chess-coach/id6762338466">
+  <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Users-10%2C000%2B-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/Paying_Subscribers-100%2B-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Platforms-iOS_%C2%B7_iPadOS_%C2%B7_Android-6366F1?style=flat-square" />
 
 </div>
 
-> *"While your classmates are begging freelancers who ghost them, my clients are already deploying."*
+A four-service monorepo I own completely:
 
-**What I've shipped at StudentWebSolutions.com:**
+- **Laravel 11 + PostgreSQL** — auth, subscriptions, Google Play purchase verification, web admin
+- **React Native / Expo** — the shipping Android & iOS client
+- **Python FastAPI + Stockfish** — engine analysis service with a pool of 8 engine instances
+- **Pure-Swift domain layer** — ELO, puzzle serving ladders, Swiss & round-robin pairing with Buchholz/Sonneborn-Berger, perft-verified move generation, and a negamax + alpha-beta engine with 5 coach personas — pinned to the Laravel backend by a **golden-vector parity harness** so puzzles, analysis and pairing run fully offline in Airplane Mode
 
-| System | Delivered In | Starting Price |
-|--------|-------------|----------------|
-| 📚 Library System (with AI) | 1–2 days | ₱20,000 |
+---
+
+## 🧰 Tech Stack
+
+**AI & LLM Engineering**
+
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Structured Output](https://img.shields.io/badge/Structured_Output-1F2937?style=flat-square)
+![Queued AI Pipelines](https://img.shields.io/badge/Queued_AI_Pipelines-1F2937?style=flat-square)
+![Hallucination Guardrails](https://img.shields.io/badge/Hallucination_Guardrails-1F2937?style=flat-square)
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel_12/13-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia.js_3-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Mobile**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Data, Cloud & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean_Droplets-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Integrations**
+
+![Stripe](https://img.shields.io/badge/Stripe_%2B_Cashier-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logo=agora&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps_Platform-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=PrinceSanguan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9" alt="GitHub stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSanguan&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceSanguan&bg_color=0D1117&color=C9D1D9&line=FF6B35&point=FFFFFF&area=true&hide_border=true" width="92%" alt="Contribution graph" />
+
+</div>
+
+---
+
+## 🧪 Engineering Practices
+
+- **Type safety across the boundary** — TypeScript definitions generated from PHP DTOs and enums, so a backend rename breaks the frontend build instead of production
+- **Guard tests** — the build fails when a project convention is broken, not when a user finds it
+- **Correctness by schema** — split-test attribution modelled as half-open interval assignments with database constraints that make overlapping assignments *impossible*
+- **Grounded AI** — every extracted claim carries a verbatim quote machine-checked against the source transcript; anything unverifiable is discarded
+- Git branch-per-feature worktree flow · PR review · ESLint · Prettier · Laravel Pint · Sentry · Inertia SSR
+
+---
+
+## 🎓 Capstone & Thesis Systems for Filipino Students
+
+Alongside client work I run **[StudentWebSolutions.com](https://studentwebsolutions.com)** — complete, defense-ready capstone systems built and deployed for students across the Philippines.
+
+| System | Typical build | Starting at |
+|---|---|---|
+| 📚 Library Management (with AI) | 1–2 days | ₱20,000 |
 | 🏫 School Information System | 1–2 days | ₱18,000 |
 | 🛒 POS / Inventory System | 1–2 days | ₱15,000 |
 | 🎓 Full Capstone System | 1–2 days | ₱10,000+ |
 | 🌐 Custom Website | 1 day | ₱10,000 |
-| 🤖 AI-Integrated System | 2 days | +₱5,000 |
+| 🤖 AI Integration add-on | +1 day | +₱5,000 |
 
----
-
-## 🛠️ My Stack (The Reason I Ship Fast)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Tools & DevOps**
-![Inertia.js](https://img.shields.io/badge/Inertia.js-7C3AED?style=for-the-badge&logo=inertia&logoColor=white)
-![Laravel Cloud](https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 Proof I Actually Code (Not Just Talk)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princesanguan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesanguan&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princesanguan&theme=react-dark&hide_border=true&area=true" width="90%">
-</div>
-
----
-
-## 🎯 Real Projects. Real Clients. Real Deployed Systems.
+Shipped: barangay management, EMS dispatch, dental & clinic scheduling, library tracking, scholarship portals, reservation and ordering systems, martial arts academies, subject & student records — Laravel, React, Inertia, MySQL/PostgreSQL, deployed and documented.
 
 <div align="center">
 
-| Project | Live URL | Tech |
-|---------|----------|------|
-| 🌐 Student Web Solutions | [studentwebsolutions.com](https://studentwebsolutions.com) | Laravel + React |
-| 🏋️ Choros Athlete Tracker | [choros.io](https://choros.io) | Laravel + React |
-| 🎋 SJA Martial Arts | [sjamartialarts.com](https://sjamartialarts.com) | Laravel + Blade |
-| ♟️ Double Bishop Chess | [doublebishopchess.com](https://doublebishopchess.com) | Laravel + React |
-| 🍣 Butterfly Sushi | [butterflysushibars.com](https://butterflysushibars.com) | Laravel |
-| 👤 Personal Portfolio | [psanguan.com](https://psanguan.com) | Laravel + React |
+<a href="https://studentwebsolutions.com"><img src="https://img.shields.io/badge/🌐_See_the_portfolio-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.facebook.com/people/StudentwebSolution/61560390520092/"><img src="https://img.shields.io/badge/Message_me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.tiktok.com/@studentwebsolutions"><img src="https://img.shields.io/badge/Dev_tutorials-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 
 </div>
 
 ---
 
-## 💬 What Filipino Students Are Saying
+## 🌍 Shipped & Live
 
-> *"Nagtanong ako sa ibang developer, 1 month daw. Kay Prince, 2 days tapos na. Pumasa ako sa defense!"* — Thesis student, Manila
-
-> *"Akala ko mahal, pero ₱15,000 lang pala for a full library system. Worth it!"* — CS Student
-
-> *"My committee asked if I hired a software company. I said yes — Student Web Solutions."* — IT Student
-
----
-
-## 🚨 Still Struggling With Your Capstone? Here's What Happens Next:
-
-**Step 1:** Click the button below  
-**Step 2:** Tell me what system you need  
-**Step 3:** I send you a price + timeline  
-**Step 4:** You pass your thesis defense  
-
-<div align="center">
-
-<a href="https://www.facebook.com/people/StudentwebSolution/61560390520092/">
-  <img src="https://img.shields.io/badge/💬_START_YOUR_PROJECT_NOW-FF6B35?style=for-the-badge&logoColor=white" alt="Start Project" />
-</a>
-
-<a href="https://studentwebsolutions.com">
-  <img src="https://img.shields.io/badge/🌐_SEE_ALL_MY_WORK-1877F2?style=for-the-badge&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="mailto:princesanguan44@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</div>
+| Site | Stack |
+|---|---|
+| [choros.io](https://choros.io) | Laravel · React |
+| [studentwebsolutions.com](https://studentwebsolutions.com) | Laravel · React |
+| [doublebishopchess.com](https://doublebishopchess.com) | Laravel · React |
+| [sjamartialarts.com](https://sjamartialarts.com) | Laravel · Blade |
+| [psanguan.com](https://psanguan.com) | Laravel · React |
 
 ---
 
 <div align="center">
 
-### ⚡ Every day you wait is a day your classmate submits first.
+### Let's build something that ships.
 
-**[studentwebsolutions.com](https://studentwebsolutions.com)** — Systems that pass. Developers that deliver.
+<a href="mailto:princesanguan44@gmail.com"><img src="https://img.shields.io/badge/princesanguan44@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/prince-sanguan-a78988274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-*Built with 🔥 by Prince Sanguan | Philippines*
+<sub>Silang, Cavite · Philippines · Open to remote full-stack & AI engineering work</sub>
 
 </div>
