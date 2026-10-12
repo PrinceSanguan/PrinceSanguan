@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Laravel+%C2%B7+React+19+%C2%B7+TypeScript+%C2%B7+PostgreSQL+17;Claude-powered+pipelines+%26+native+mobile;Production+systems+since+2020" alt="AI Full Stack Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Laravel+%C2%B7+React+19+%C2%B7+TypeScript+%C2%B7+PostgreSQL+17;MT5+trading+bots+in+MQL5;Claude-powered+pipelines+%26+native+mobile;Production+systems+since+2020" alt="AI Full Stack Engineer" />
 
 # Prince E. Sanguan
 
@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://psanguan.com"><img src="https://img.shields.io/badge/Portfolio-psanguan.com-FF6B35?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
   <a href="mailto:princesanguan44@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.tiktok.com/@studentwebsolutions"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
@@ -17,6 +17,7 @@
 <p>
   <img src="https://img.shields.io/badge/Experience-6%2B_years-FF6B35?style=flat-square&labelColor=0D1117" alt="6+ years" />
   <img src="https://img.shields.io/badge/FX_platform-2%2C950%2B_commits-FF6B35?style=flat-square&labelColor=0D1117" alt="2950+ commits" />
+  <img src="https://img.shields.io/badge/MT5_trading_bots-2_delivered-F5B301?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iNC41IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxNSIvPjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIuNiIvPjxyZWN0IHg9IjExLjUiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEzIi8%2BPHJlY3QgeD0iMTAiIHk9IjQiIHdpZHRoPSI0IiBoZWlnaHQ9IjgiIHJ4PSIuNiIvPjxyZWN0IHg9IjE4LjUiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjE1Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iLjYiLz48L3N2Zz4%3D" alt="2 MT5 trading bots delivered" />
   <img src="https://img.shields.io/badge/App_users-10%2C000%2B-22C55E?style=flat-square&labelColor=0D1117" alt="10000+ users" />
   <img src="https://img.shields.io/badge/Paying_subscribers-100%2B-22C55E?style=flat-square&labelColor=0D1117" alt="100+ paying" />
   <img src="https://img.shields.io/badge/Shipped_to-App_Store_%2B_Play_Store-0D96F6?style=flat-square&labelColor=0D1117" alt="App stores" />
@@ -27,9 +28,9 @@
 
 ---
 
-I build production software end to end — **PostgreSQL schema and queued LLM pipelines through to typed React interfaces and native mobile clients.**
+I build production software end to end — **PostgreSQL schema and queued LLM pipelines through to typed React interfaces, native mobile clients and automated trading bots.**
 
-Primary developer of a multi-tenant **FX risk-management platform** for corporate treasury, and lead developer of two **Claude-powered products**. On the side I ship a chess-coaching SaaS that's live on the **App Store** and **Google Play** with real paying subscribers.
+Primary developer of a multi-tenant **FX risk-management platform** for corporate treasury. I also build **MetaTrader 5 trading bots** in MQL5 that trade a client's own strategy with nobody watching the screen, and a Claude-powered lead-generation SaaS. On the side I ship a chess-coaching SaaS that's live on the **App Store** and **Google Play** with real paying subscribers.
 
 > I don't hand over demos. I hand over systems with real accounts, real money moving through them, and an audit trail behind every number.
 
@@ -57,6 +58,24 @@ I replaced a 1,457-line single-file app behind a shared password, a Node microse
 </td>
 <td width="50%" valign="top">
 
+### 🤖 MT5 Trading Bots
+**Automated Gold Trading · MQL5 Expert Advisors** · *Freelance*
+
+`🔒 Private client — strategy stays confidential`
+
+**2 Expert Advisors delivered · 75 backtests · 7 releases in 4 days.**
+
+Bots that run a trader's own rules on MetaTrader 5, 24/5: they open and manage multi-position baskets, size every lot with spread, commission and swap priced in, and close on basket profit targets — guarded by a break-even lock, an equity stop-loss, margin checks and a news filter on MT5's economic calendar.
+
+One-click reverse / hedge / resume buttons on the chart, and state that survives a terminal restart. Every release is rerun on the broker's real tick data and must match the reference results **to the cent** before it reaches a client account.
+
+`MQL5` `MetaTrader 5` `Strategy Tester` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### ♟️ Biyaherong Chess Coach
 **Chess Coaching SaaS** · *Sole developer*
 
@@ -70,20 +89,6 @@ A four-service monorepo I own completely — backend, mobile API, React Native c
 Swiss & round-robin pairing with Buchholz / Sonneborn-Berger tiebreaks, perft-verified move generation, a negamax + alpha-beta engine with **5 coach personas**, and ELO puzzle-serving ladders.
 
 `Laravel 11` `React Native` `Expo` `Swift` `FastAPI` `Stockfish` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Cold Call Playbook
-**LLM Call Analytics** · *Lead developer*
-
-Built on the **Anthropic Claude API**. Every extracted objection, ask and outcome carries a **verbatim quote machine-checked against the source transcript** — any claim that can't be verified is discarded rather than counted.
-
-Block-and-arrow canvas editor with versioned, conflict-safe autosave; a stage heatmap showing how far into their own script each call actually got; and split-test attribution the database makes impossible to get wrong.
-
-`Laravel 13` `React 19` `Claude` `PostgreSQL 17`
 
 </td>
 <td width="50%" valign="top">
@@ -105,6 +110,38 @@ Maps-based prospect discovery with AI business analysis and generated cold-email
 </td>
 </tr>
 </table>
+
+---
+
+## 🤖 Trading Bots for MetaTrader 5
+
+<div align="center">
+
+**Trading a strategy by hand and missing entries? I turn it into a bot that trades it for you — 24/5, exactly to your rules.**
+
+<img src="https://img.shields.io/badge/MQL5-Expert_Advisors-F5B301?style=for-the-badge&labelColor=1F2937&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iNC41IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxNSIvPjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIuNiIvPjxyZWN0IHg9IjExLjUiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEzIi8%2BPHJlY3QgeD0iMTAiIHk9IjQiIHdpZHRoPSI0IiBoZWlnaHQ9IjgiIHJ4PSIuNiIvPjxyZWN0IHg9IjE4LjUiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjE1Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iLjYiLz48L3N2Zz4%3D" alt="MQL5 Expert Advisors" />
+<img src="https://img.shields.io/badge/MetaTrader_5-Hedging_%26_ECN-F5B301?style=for-the-badge&labelColor=1F2937" alt="MetaTrader 5" />
+<img src="https://img.shields.io/badge/XAUUSD-Gold-F5B301?style=for-the-badge&labelColor=1F2937" alt="XAUUSD gold" />
+
+</div>
+
+| Layer | What the bots handle |
+|---|---|
+| **Entries** | Price-level and candle-close triggers, multi-position baskets, buy and sell sides managed independently |
+| **Position sizing** | Lot computed per trade with spread, commission and swap included; max-lot cap and free-margin guard |
+| **Exits & risk** | Basket profit targets, break-even lock, account-level equity stop-loss |
+| **Market awareness** | News filter on MetaTrader's built-in economic calendar — no new trades around high-impact releases |
+| **Control** | On-chart dashboard with one-click buttons (reverse, hedge, resume); state persists across restarts |
+| **Proof** | Headless Strategy Tester pipeline in Python — generated configs, batch runs on the broker's tick data, regression checks to the cent |
+| **Support** | When a client asks *"bug or not?"*, I replay their live trades against the broker's tick data and answer with numbers |
+
+<div align="center">
+
+<a href="mailto:princesanguan44@gmail.com?subject=MT5%20trading%20bot"><img src="https://img.shields.io/badge/Automate_my_strategy-F5B301?style=for-the-badge&logo=gmail&logoColor=black" alt="Automate my strategy" /></a>
+
+<sub>Every bot is built exclusively for its owner. Strategies, settings and source code are never shared, published or resold.</sub>
+
+</div>
 
 ---
 
@@ -145,6 +182,13 @@ The Swift core is pinned to the backend by a **golden-vector parity harness** �
 ![Guardrails](https://img.shields.io/badge/Hallucination_Guardrails-1F2937?style=flat-square)
 ![BYOK](https://img.shields.io/badge/Per--tenant_BYOK-1F2937?style=flat-square)
 
+**Trading Bots & Automation**
+
+![MQL5](https://img.shields.io/badge/MQL5-B8860B?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iNC41IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxNSIvPjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIuNiIvPjxyZWN0IHg9IjExLjUiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEzIi8%2BPHJlY3QgeD0iMTAiIHk9IjQiIHdpZHRoPSI0IiBoZWlnaHQ9IjgiIHJ4PSIuNiIvPjxyZWN0IHg9IjE4LjUiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjE1Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iLjYiLz48L3N2Zz4%3D)
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-1F2937?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iNC41IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxNSIvPjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIuNiIvPjxyZWN0IHg9IjExLjUiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEzIi8%2BPHJlY3QgeD0iMTAiIHk9IjQiIHdpZHRoPSI0IiBoZWlnaHQ9IjgiIHJ4PSIuNiIvPjxyZWN0IHg9IjE4LjUiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjE1Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iLjYiLz48L3N2Zz4%3D)
+![Strategy Tester](https://img.shields.io/badge/Strategy_Tester_Backtesting-1F2937?style=flat-square)
+![Economic Calendar](https://img.shields.io/badge/News_Filter_%28MT5_Calendar%29-1F2937?style=flat-square)
+
 **Backend**
 
 ![Laravel](https://img.shields.io/badge/Laravel_12%2F13-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -178,7 +222,7 @@ The Swift core is pinned to the backend by a **golden-vector parity harness** �
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean_Droplets-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Laravel Cloud](https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -200,13 +244,13 @@ The Swift core is pinned to the backend by a **golden-vector parity harness** �
 
 **Guard tests** — the build fails when a project convention is broken, not when a user finds it.
 
-**Correctness by schema** — split-test attribution modelled as half-open interval assignments with database constraints that make overlapping assignments *impossible*. Every call maps to exactly one script version, permanently.
+**Backtest before it trades** — every trading-bot release is rerun on the broker's real tick data and has to reproduce the reference results to the cent. A change that moves a number nobody asked to move doesn't ship.
 
-**Grounded AI** — every extracted claim carries a verbatim quote machine-checked against its source. Unverifiable output is discarded, never counted.
+**Evidence, not opinions** — when a client reports a problem, I replay what actually happened (their trades, their ticks, their settings) before I answer. "Bug or not" gets a number, not a guess.
 
 **Parity harnesses** — when I port a domain layer to another language, golden vectors prove the port matches the original. No "it looks about right."
 
-`Git worktree branch-per-feature` · `PR review` · `ESLint` · `Prettier` · `Laravel Pint` · `Sentry` · `Inertia SSR` · `PHPUnit` · `Vitest`
+`Git worktree branch-per-feature` · `PR review` · `ESLint` · `Prettier` · `Laravel Pint` · `Sentry` · `Inertia SSR` · `PHPUnit` · `Vitest` · `MT5 Strategy Tester`
 
 ---
 
@@ -225,7 +269,7 @@ The Swift core is pinned to the backend by a **golden-vector parity harness** �
 
 <img src="https://ghchart.rshah.org/FF6B35/PrinceSanguan" width="92%" alt="Contribution chart" />
 
-<sub>📌 Public repos only — most of my production work lives in private client codebases.<br/>The FX platform alone carries ~2,950 of my commits and none of them show up here.</sub>
+<sub>📌 Public repos only — most of my production work lives in private client codebases.<br/>The FX platform alone carries ~2,950 of my commits, and the trading bots ship as private builds — none of it shows up here.</sub>
 
 </div>
 
@@ -272,7 +316,6 @@ Alongside client work I run **[StudentWebSolutions.com](https://studentwebsoluti
 ## 🎓 Background
 
 **BS Statistics** — Rizal Technological University, Mandaluyong City · 2013–2017
-**Full Stack Web Development Bootcamp** — KODEGO, 2023
 **Civil Service Professional Eligibility** — Civil Service Commission, 2018
 
 Before Choros IO: **4+ years as a Programmer at the Department of Foreign Affairs**, where I built an in-house Office Verification System that replaced a manual, paper-based document workflow used daily by office staff.
@@ -284,9 +327,9 @@ Before Choros IO: **4+ years as a Programmer at the Department of Foreign Affair
 ### Let's build something that ships.
 
 <a href="mailto:princesanguan44@gmail.com"><img src="https://img.shields.io/badge/princesanguan44@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/prince-sanguan-a78988274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/prince-sanguan-a78988274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="https://www.tiktok.com/@studentwebsolutions"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 
-<sub>Silang, Cavite · Philippines · Open to remote full-stack & AI engineering work</sub>
+<sub>Silang, Cavite · Philippines · Open to remote full-stack, AI engineering & trading-bot work</sub>
 
 </div>
