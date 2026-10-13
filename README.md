@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Laravel+%C2%B7+React+19+%C2%B7+TypeScript+%C2%B7+PostgreSQL+17;MT5+trading+bots+in+MQL5;Claude-powered+pipelines+%26+native+mobile;Production+systems+since+2020" alt="AI Full Stack Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Laravel+%C2%B7+React+19+%C2%B7+TypeScript+%C2%B7+PostgreSQL+17;MT5+trading+bots+in+MQL5;Claude-powered+pipelines+%26+native+mobile;Production+systems+since+2020" alt="AI Full Stack Engineer" />
 
 # Prince E. Sanguan
 
@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/App_users-10%2C000%2B-22C55E?style=flat-square&labelColor=0D1117" alt="10000+ users" />
   <img src="https://img.shields.io/badge/Paying_subscribers-100%2B-22C55E?style=flat-square&labelColor=0D1117" alt="100+ paying" />
   <img src="https://img.shields.io/badge/Shipped_to-App_Store_%2B_Play_Store-0D96F6?style=flat-square&labelColor=0D1117" alt="App stores" />
+  <img src="https://img.shields.io/badge/Kara--okay-Creator_%26_sole_developer-00C39A?style=flat-square&labelColor=0D1117&logo=android&logoColor=00C39A" alt="Kara-okay creator and sole developer" />
+  <img src="https://img.shields.io/badge/Kara--okay_downloads-3%2C800%2B-00C39A?style=flat-square&labelColor=0D1117" alt="3,800+ Kara-okay downloads" />
   <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20views&color=FF6B35&style=flat-square" alt="Profile views" />
 </p>
 
@@ -32,7 +34,60 @@ I build production software end to end — **PostgreSQL schema and queued LLM pi
 
 Primary developer of a multi-tenant **FX risk-management platform** for corporate treasury. I also build **MetaTrader 5 trading bots** in MQL5 that trade a client's own strategy with nobody watching the screen, and a Claude-powered lead-generation SaaS. On the side I ship a chess-coaching SaaS that's live on the **App Store** and **Google Play** with real paying subscribers.
 
+I'm also the creator and only developer of **Kara-okay**, a free Filipino videoke app for Android phones and Android TV, with **3,800+ downloads** since launch.
+
 > I don't hand over demos. I hand over systems with real accounts, real money moving through them, and an audit trail behind every number.
+
+---
+
+## 🎤 Kara-okay — Creator & Sole Developer
+
+<div align="center">
+
+<a href="https://github.com/PrinceSanguan/KARA-OKAY"><img src="https://raw.githubusercontent.com/PrinceSanguan/KARA-OKAY/main/docs/banner.png" alt="Kara-okay: videoke in your pocket" width="100%" /></a>
+
+<a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-APK-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download the APK" /></a>
+<a href="https://github.com/PrinceSanguan/KARA-OKAY"><img src="https://img.shields.io/badge/See_the_project-GitHub-00301F?style=for-the-badge&logo=github&logoColor=white" alt="See the project" /></a>
+<img src="https://img.shields.io/badge/Android_%2B_Android_TV-8.0%2B-0A6B4E?style=for-the-badge&logo=android&logoColor=white" alt="Android 8.0+ and Android TV" />
+<img src="https://img.shields.io/badge/Version-1.1.0-00301F?style=for-the-badge" alt="Version 1.1.0" />
+<img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free" />
+
+**The Filipino videoke night, on your phone and your TV.**<br/>
+Idea, design, app, audio engine, server and release — built and shipped by me alone.
+
+</div>
+
+Punch in a five-digit song number, sing to lyrics that fill with colour as they're sung, and line up the next singer — just like the videoke machine at every Filipino party, with no machine needed. Install, tap one button, and the songs, instrument sounds and video backdrops download inside the app. Singing opens up at about 45%; the rest keeps coming in the background.
+
+**3,800+ APK downloads on GitHub Releases · one APK for phones, tablets and Android TV · no account, no ads.**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/KARA-OKAY/main/docs/download.png" alt="The first download: singing opens up at about 45%" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/KARA-OKAY/main/docs/search.png" alt="Search by title or artist" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/KARA-OKAY/main/docs/keypad.png" alt="Punch in a song number" width="31%" />
+</p>
+<p align="center">
+  <sub><b>Download once</b>, sing at ~45% &nbsp;·&nbsp; <b>Search</b> by title or artist &nbsp;·&nbsp; <b>Punch in</b> the song number</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/KARA-OKAY/main/docs/stage.jpg" alt="The stage: lyrics colour as they are sung, over a moving backdrop" width="100%" />
+</p>
+<p align="center"><sub>The stage: lyrics colour as they're sung, over a moving video backdrop.</sub></p>
+
+| Layer | What I built |
+|---|---|
+| **App** | Kotlin + Jetpack Compose. One APK for phones and Android TV: D-pad focus, the TV remote's number keys, five colour themes on a soft glow |
+| **Audio engine** | FluidSynth built with the Android NDK and driven over JNI; my own MIDI/KAR parser for timed lyrics; key and tempo change live, mid-song. MP3 songs on Media3 with `.lrc` and ID3 synced lyrics |
+| **Downloads** | WorkManager foreground worker with HTTP Range resume and a SHA-256 check on every file. Songs play straight out of zip packs — nothing is unzipped |
+| **Backend** | Next.js 16 on Vercel hands out short-lived signed links to a private Cloudflare R2 bucket, so Vercel never carries the files |
+| **Phone remote** | The TV runs its own small HTTP server with live updates (SSE), Wi-Fi discovery and PIN pairing. Guests scan a QR code and reserve songs from any phone browser — nothing to install |
+| **Your own songs** | Users add their own MIDI, KAR and MP3 songs and `.sf2` sounds; on a TV, they send them from a phone over Wi-Fi |
+| **Updates & quality** | In-app updates that check the package, version and signing key before installing. 210 JVM tests, 16 KB page-size ready for Android 15+, tested on phone and Android TV emulators |
+
+`Kotlin` `Jetpack Compose` `C++ / JNI` `FluidSynth` `Media3` `WorkManager` `Next.js 16` `Cloudflare R2` `Vercel`
 
 ---
 
@@ -212,7 +267,10 @@ The Swift core is pinned to the backend by a **golden-vector parity harness** �
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android TV](https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white)
+![C++ / NDK](https://img.shields.io/badge/C%2B%2B_%2F_NDK-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
@@ -223,6 +281,7 @@ The Swift core is pinned to the backend by a **golden-vector parity harness** �
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean_Droplets-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Laravel Cloud](https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -310,6 +369,7 @@ Alongside client work I run **[StudentWebSolutions.com](https://studentwebsoluti
 | [sjamartialarts.com](https://sjamartialarts.com) | Laravel · Blade |
 | [Biyaherong Chess Coach — Google Play](https://play.google.com/store/apps/details?id=com.prince24pogi.biyaherongchessapp&hl=en) | Laravel · React Native |
 | [Biyaherong Chess Coach — App Store](https://apps.apple.com/us/app/biyaherong-chess-coach/id6762338466) | Swift · SwiftUI |
+| [Kara-okay — Android & Android TV](https://github.com/PrinceSanguan/KARA-OKAY) | Kotlin · Jetpack Compose · Next.js |
 
 ---
 
