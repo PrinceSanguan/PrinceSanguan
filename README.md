@@ -152,18 +152,35 @@ Maps-based prospect discovery with AI business analysis and cold-email drafts, b
 
 ## 🤖 Trading Bots for MetaTrader 5
 
-**Trading a strategy by hand and missing entries? I turn it into a bot that trades it for you — 24/5, exactly to your rules.**
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/mt5/banner.png" alt="MT5 trading bots: your strategy, trading 24/5" width="100%" />
+
+**Trading a strategy by hand and missing entries? I turn it into a bot that trades it for you — 24/5, exactly to your rules.**<br/>
 **2 Expert Advisors delivered · 75 backtests · 7 releases in 4 days** for a private gold (XAUUSD) trader.
 
-- **Entries and sizing:** price-level and candle-close triggers, multi-position baskets, and lots sized with spread, commission and swap included
-- **Risk:** basket profit targets, a break-even lock, an equity stop-loss, margin checks and a news filter on MT5's economic calendar
-- **Control:** one-click reverse, hedge and resume buttons on the chart, with state that survives a restart
-- **Proof:** every release is rerun on the broker's real tick data and must match the reference results to the cent
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/mt5/control.png" alt="On-chart control: one click to reverse, hedge or resume" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/mt5/guards.png" alt="Risk guards: basket profit target, break-even lock, equity stop-loss, margin check and news filter" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/mt5/proof.png" alt="Proof before it trades: every release matched to the cent on real tick data" width="31%" />
+</p>
+<p align="center">
+  <sub><b>Control</b> from the chart &nbsp;·&nbsp; <b>Risk guards</b> on every basket &nbsp;·&nbsp; <b>Backtested</b> before every release</sub>
+</p>
+
+**Entries and sizing:** price-level and candle-close triggers, multi-position baskets, and lots sized with spread, commission and swap included.
+
+<div align="center">
 
 <a href="mailto:princesanguan44@gmail.com?subject=MT5%20trading%20bot"><img src="https://img.shields.io/badge/Automate_my_strategy-F5B301?style=for-the-badge&logo=gmail&logoColor=black" alt="Automate my strategy" /></a>
 
-<sub>Every bot is built exclusively for its owner. Strategies, settings and source code are never shared, published or resold.</sub>
+<sub>Illustrations, not a client's chart. Every bot is built exclusively for its owner: strategies, settings and source code are never shared, published or resold.</sub>
+
+</div>
 
 ---
 
