@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Laravel+%C2%B7+React+19+%C2%B7+TypeScript+%C2%B7+PostgreSQL+17;MT5+trading+bots+in+MQL5;Claude-powered+pipelines+%26+native+mobile;Production+systems+since+2020" alt="AI Full Stack Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Biyaherong+Chess+Coach+%C2%B7+10K%2B+downloads;Laravel+%C2%B7+React+19+%C2%B7+TypeScript+%C2%B7+PostgreSQL+17;MT5+trading+bots+in+MQL5;Claude-powered+pipelines+%26+native+mobile;Production+systems+since+2020" alt="AI Full Stack Engineer" />
 
 # Prince E. Sanguan
 
@@ -32,7 +32,7 @@
 
 I build production software end to end — **PostgreSQL schema and queued LLM pipelines through to typed React interfaces, native mobile clients and automated trading bots.**
 
-Primary developer of a multi-tenant **FX risk-management platform** for corporate treasury. I also build **MetaTrader 5 trading bots** in MQL5 that trade a client's own strategy with nobody watching the screen, and a Claude-powered lead-generation SaaS. On the side I ship a chess-coaching SaaS that's live on the **App Store** and **Google Play** with real paying subscribers.
+Primary developer of a multi-tenant **FX risk-management platform** for corporate treasury. I also build **MetaTrader 5 trading bots** in MQL5 that trade a client's own strategy with nobody watching the screen, and a Claude-powered lead-generation SaaS. On the side I ship **[Biyaherong Chess Coach](https://github.com/PrinceSanguan/BIYAHERONG-CHESS-APP)**, a chess-coaching app that's live on the **App Store** and **Google Play** with **10,000+ downloads** and real paying subscribers.
 
 I'm also the creator and only developer of **Kara-okay**, a free Filipino videoke app for Android phones and Android TV, with **3,800+ downloads** since launch.
 
@@ -49,7 +49,7 @@ I'm also the creator and only developer of **Kara-okay**, a free Filipino videok
 <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-APK-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download the APK" /></a>
 <a href="https://github.com/PrinceSanguan/KARA-OKAY"><img src="https://img.shields.io/badge/See_the_project-GitHub-00301F?style=for-the-badge&logo=github&logoColor=white" alt="See the project" /></a>
 <img src="https://img.shields.io/badge/Android_%2B_Android_TV-8.0%2B-0A6B4E?style=for-the-badge&logo=android&logoColor=white" alt="Android 8.0+ and Android TV" />
-<img src="https://img.shields.io/badge/Version-1.1.0-00301F?style=for-the-badge" alt="Version 1.1.0" />
+<img src="https://img.shields.io/badge/Version-1.4.0-00301F?style=for-the-badge" alt="Version 1.4.0" />
 <img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free" />
 
 **The Filipino videoke night, on your phone and your TV.**<br/>
@@ -88,6 +88,64 @@ Punch in a five-digit song number, sing to lyrics that fill with colour as they'
 | **Updates & quality** | In-app updates that check the package, version and signing key before installing. 210 JVM tests, 16 KB page-size ready for Android 15+, tested on phone and Android TV emulators |
 
 `Kotlin` `Jetpack Compose` `C++ / JNI` `FluidSynth` `Media3` `WorkManager` `Next.js 16` `Cloudflare R2` `Vercel`
+
+---
+
+## ♟️ Biyaherong Chess Coach — Live on the App Store & Google Play
+
+<div align="center">
+
+<a href="https://github.com/PrinceSanguan/BIYAHERONG-CHESS-APP"><img src="https://raw.githubusercontent.com/PrinceSanguan/BIYAHERONG-CHESS-APP/main/docs/banner.png" alt="Biyaherong Chess Coach: kabyahe mo sa pag-improve" width="100%" /></a>
+
+<a href="https://apps.apple.com/us/app/biyaherong-chess-coach/id6762338466"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.prince24pogi.biyaherongchessapp&hl=en"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
+<a href="https://github.com/PrinceSanguan/BIYAHERONG-CHESS-APP"><img src="https://img.shields.io/badge/See_the_project-GitHub-0F1D37?style=for-the-badge&logo=github&logoColor=white" alt="See the project" /></a>
+<img src="https://img.shields.io/badge/Downloads-10K%2B-F6B21B?style=for-the-badge&labelColor=0F1D37" alt="10K+ downloads" />
+<img src="https://img.shields.io/badge/Paying_subscribers-100%2B-F6B21B?style=for-the-badge&labelColor=0F1D37" alt="100+ paying subscribers" />
+
+**Chess training for Filipino players, from FIDE Master Deniel Causo.**<br/>
+Backend, Android app and a native, offline iPhone app — built and shipped by me.
+
+</div>
+
+Solve puzzles, play five coach bots from ELO 800 to 2500, check your games with Stockfish and run a club tournament from one phone. The iPhone app is a native Swift rebuild of the original Laravel + React Native app: puzzles, coach games, analysis and tournaments all run in Airplane Mode, with a real Stockfish 17.1 running on the phone itself.
+
+**10,000+ downloads · 100+ paying subscribers · $1.99 a month or $19.99 a year, with a 7-day free trial.**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/BIYAHERONG-CHESS-APP/main/docs/home.png" alt="Home: puzzles, analysis, videos, opening tree, coach games and tournaments" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/BIYAHERONG-CHESS-APP/main/docs/coach-select.png" alt="The Biyaherong Coach family bots, ELO 800 to 2500" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/BIYAHERONG-CHESS-APP/main/docs/analysis-board.png" alt="The Analysis Board: Stockfish lines and arrows" width="31%" />
+</p>
+<p align="center">
+  <sub><b>Home</b>, everything one tap away &nbsp;·&nbsp; <b>Coach bots</b>, ELO 800 to 2500 &nbsp;·&nbsp; <b>Analysis Board</b> with Stockfish 17.1</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/BIYAHERONG-CHESS-APP/main/docs/puzzle-hub.png" alt="The Puzzle Hub: daily goal and five puzzle modes" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/BIYAHERONG-CHESS-APP/main/docs/opening-tree.png" alt="The Opening Tree: your own games, move by move" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/BIYAHERONG-CHESS-APP/main/docs/tournament.png" alt="Creating a Swiss or Round Robin tournament" width="31%" />
+</p>
+<p align="center">
+  <sub><b>Puzzle Hub</b>, five ways to train &nbsp;·&nbsp; <b>Opening Tree</b> from your own games &nbsp;·&nbsp; <b>Pairing Manager</b> for your club</sub>
+</p>
+
+| Layer | What I built |
+|---|---|
+| **iPhone app** | Swift + SwiftUI, iOS 17+. A native rebuild of the whole app that works offline: Puzzle Hub, Play vs Coach, Analysis Board, Opening Tree and Pairing Manager |
+| **Chess engine** | Stockfish 17.1 compiled into the app through a C++ bridge, with its NNUE networks; perft-verified move generation and my own negamax + alpha-beta search as the fallback |
+| **Puzzles** | About 93,000 puzzles in one SQLite file, built deterministically from 550,000 Lichess puzzles; five modes served by ELO-rated ladders |
+| **Tournaments** | Swiss and Round Robin pairing with Buchholz and Sonneborn-Berger tiebreaks, ported from the Laravel controllers |
+| **Parity tests** | The real PHP generates golden test vectors and the Swift has to match them exactly: 3,000 rating updates, 270 randomised tournaments. Mutation testing catches 40 of 41 injected bugs; the survivor is provably equivalent |
+| **Subscriptions** | StoreKit 2 verified on the device, with no server, so it works in Airplane Mode. On Android, the Laravel backend verifies Google Play purchases |
+| **Backend & Android** | Laravel 11 + PostgreSQL for auth, subscriptions and the web admin; the React Native (Expo) Android app; a Python FastAPI service running a pool of 8 Stockfish instances |
+| **Shipping** | XcodeGen project and Codemagic CI uploading to TestFlight, through App Store review to the store |
+
+`Swift` `SwiftUI` `StoreKit 2` `Stockfish` `C++` `SQLite` `Laravel 11` `PostgreSQL` `React Native` `Expo` `FastAPI` `Codemagic`
 
 ---
 
@@ -136,8 +194,9 @@ One-click reverse / hedge / resume buttons on the chart, and state that survives
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Live-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.prince24pogi.biyaherongchessapp&hl=en)
 [![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/biyaherong-chess-coach/id6762338466)
+[![Project](https://img.shields.io/badge/Project-GitHub-0F1D37?style=flat-square&logo=github&logoColor=white)](https://github.com/PrinceSanguan/BIYAHERONG-CHESS-APP)
 
-**10,000+ users · 100+ paying subscribers.** iOS, iPadOS and Android.
+**10,000+ users · 100+ paying subscribers.** iOS and Android.
 
 A four-service monorepo I own completely — backend, mobile API, React Native client, and a full native Swift port that runs the whole app offline.
 
@@ -197,32 +256,6 @@ Maps-based prospect discovery with AI business analysis and generated cold-email
 <sub>Every bot is built exclusively for its owner. Strategies, settings and source code are never shared, published or resold.</sub>
 
 </div>
-
----
-
-## 📱 Shipped to Both App Stores
-
-<div align="center">
-
-**Biyaherong Chess Coach** — built solo, earning revenue, live on iOS and Android.
-
-<a href="https://play.google.com/store/apps/details?id=com.prince24pogi.biyaherongchessapp&hl=en">
-  <img src="https://img.shields.io/badge/GET_IT_ON-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" />
-</a>
-<a href="https://apps.apple.com/us/app/biyaherong-chess-coach/id6762338466">
-  <img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
-</a>
-
-</div>
-
-| Service | Tech | What it does |
-|---|---|---|
-| **Backend** | Laravel 11 · PostgreSQL | Auth, subscriptions, Google Play purchase verification, web admin |
-| **Mobile client** | React Native · Expo · TypeScript | The shipping Android & iOS app |
-| **Engine service** | Python FastAPI · Stockfish | Position analysis across a pool of 8 engine instances |
-| **Offline core** | Pure Swift · SwiftPM | Full domain layer ported from the Laravel controllers |
-
-The Swift core is pinned to the backend by a **golden-vector parity harness** — puzzles, analysis, tournaments and pairing all run in Airplane Mode and still produce byte-identical results to the server.
 
 ---
 
