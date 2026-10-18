@@ -267,8 +267,6 @@ Trade ledger, hedge simulator, back-testing, broker benchmarking and **8 audit r
 **BS Statistics**, Rizal Technological University · 2013–2017 · **Civil Service Professional Eligibility**, 2018<br/>
 **4+ years as a Programmer at the Department of Foreign Affairs**, where I replaced a paper-based document workflow with an in-house Office Verification System.
 
-**Live sites:** [choros.io](https://choros.io) · [studentwebsolutions.com](https://studentwebsolutions.com) · [psanguan.com](https://psanguan.com) · [sjamartialarts.com](https://sjamartialarts.com)
-
 ---
 
 <div align="center">
