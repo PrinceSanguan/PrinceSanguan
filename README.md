@@ -40,7 +40,7 @@ I build production software end to end, from the database to the app in your cus
 | 📱 **Mobile apps** | Native iOS (Swift) and Android (Kotlin), or React Native, published to the App Store and Google Play | Biyaherong Chess Coach · Kara-okay |
 | 🤖 **AI features** | Claude and Gemini pipelines that research, analyse and draft, with guardrails and per-client keys | MapiLeads |
 | 📈 **MT5 trading bots** | Your strategy as an MQL5 Expert Advisor, backtested on real tick data before it trades | 2 bots delivered |
-| 🎓 **Capstone systems** | Defense-ready systems for Filipino students, from ₱10,000 | Barangay · EMS · clinic · library |
+| 🎓 **Capstone systems** | Defense-ready systems for Filipino students, from ₱10,000 | Barangay · EMS · clinic · POS |
 
 <p align="center">
   <a href="mailto:princesanguan44@gmail.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Start_a_project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project" /></a>
@@ -182,51 +182,44 @@ Trade ledger, hedge simulator, back-testing, broker benchmarking and **8 audit r
 
 ---
 
-## 🚀 More Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏋️ BEN SaaS
-**Athlete Training Platform** · *Sole developer*
-
-**307 of 342 commits.** In real-world use by coaches and athletes: block-based programs, XP scoring, strength leaderboards and family accounts.
-
-</td>
-<td width="50%" valign="top">
-
-### 📍 MapiLeads
-**AI Lead Generation SaaS** · *Sole developer*
-
-Maps-based prospect discovery with AI business analysis and cold-email drafts, built bring-your-own-key so each client controls their own Claude spend.
-
-`Laravel 13` `React 19` `Google Maps Platform` `Claude`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎓 Capstone & Thesis Systems for Filipino Students
 
-Through **[StudentWebSolutions.com](https://studentwebsolutions.com)** I build complete, defense-ready capstone systems, deployed and documented.
+<div align="center">
 
-| System | Typical build | Starting at |
-|---|---|---|
-| 📚 Library Management (with AI) | 1–2 days | ₱20,000 |
-| 🏫 School Information System | 1–2 days | ₱18,000 |
-| 🛒 POS / Inventory System | 1–2 days | ₱15,000 |
-| 🎓 Full Capstone System | 1–2 days | ₱10,000+ |
-| 🌐 Custom Website | 1 day | ₱10,000 |
-| 🤖 AI Integration add-on | +1 day | +₱5,000 |
+<a href="https://studentwebsolutions.com"><img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/capstone/banner.png" alt="Capstone systems for Filipino students, built to pass defense" width="100%" /></a>
 
-**Already shipped:** barangay management, EMS dispatch, dental and clinic scheduling, library tracking, scholarship portals, reservations and ordering, and student records.
+**Need a capstone that passes defense? I build the whole system, deploy it and hand you the docs — from ₱10,000.**<br/>
+**15+ systems shipped** through [StudentWebSolutions.com](https://studentwebsolutions.com), most in 1–2 days.
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/capstone/ems.png" alt="EMS dispatch: mobile app, live GPS map and push alerts" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/capstone/barangay.png" alt="Barangay e-services: certificate requests with GCash and resident census" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/capstone/clinic.png" alt="Clinic scheduling: time-slot booking, approvals and patient records" width="31%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/capstone/pos.png" alt="POS and inventory: GCash, thermal receipts and low-stock alerts" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/capstone/reserve.png" alt="Reservations: calendar, online approvals and notifications" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/capstone/reports.png" alt="AI and reports: AI summary, charts and PDF or Excel export" width="31%" />
+</p>
+<p align="center">
+  <sub><b>EMS</b> dispatch &nbsp;·&nbsp; <b>Barangay</b> e-services &nbsp;·&nbsp; <b>Clinic</b> scheduling &nbsp;·&nbsp; <b>POS</b> &amp; inventory &nbsp;·&nbsp; <b>Reservations</b> &nbsp;·&nbsp; <b>AI</b> + reports</sub>
+</p>
+
+<div align="center">
 
 <a href="https://studentwebsolutions.com"><img src="https://img.shields.io/badge/🌐_See_the_portfolio-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.facebook.com/people/StudentwebSolution/61560390520092/"><img src="https://img.shields.io/badge/Message_me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://www.tiktok.com/@studentwebsolutions"><img src="https://img.shields.io/badge/Dev_tutorials-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+
+<sub>Illustrations with sample data. Every student's school, names and records stay private.</sub>
+
+</div>
 
 ---
 
