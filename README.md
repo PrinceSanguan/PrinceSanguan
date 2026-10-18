@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Shipped_to-App_Store_%2B_Play_Store-0D96F6?style=flat-square&labelColor=0D1117" alt="App stores" />
   <img src="https://img.shields.io/badge/Kara--okay_downloads-3%2C800%2B-00C39A?style=flat-square&labelColor=0D1117" alt="3,800+ Kara-okay downloads" />
   <img src="https://img.shields.io/badge/MT5_trading_bots-2_delivered-F5B301?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iNC41IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxNSIvPjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIuNiIvPjxyZWN0IHg9IjExLjUiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEzIi8%2BPHJlY3QgeD0iMTAiIHk9IjQiIHdpZHRoPSI0IiBoZWlnaHQ9IjgiIHJ4PSIuNiIvPjxyZWN0IHg9IjE4LjUiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjE1Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iLjYiLz48L3N2Zz4%3D" alt="2 MT5 trading bots delivered" />
-  <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20views&color=FF6B35&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile_views-14K%2B-FF6B35?style=flat-square&labelColor=0D1117" alt="14K+ profile views" />
 </p>
 
 </div>
@@ -146,30 +146,55 @@ I build production software end to end, from the database to the app in your cus
 
 ---
 
+## 🏦 HedgePoint — FX Risk Management Platform
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/hedgepoint/banner.png" alt="HedgePoint: currency risk, under control" width="100%" />
+
+**When a currency moves, companies that buy or sell abroad lose money. HedgePoint shows a treasury team every exposure, lets them test a hedge before they trade, and tracks every trade after.**<br/>
+**Primary developer: 3,086 of 3,337 commits (92%) in 8 months** · shipping weekly.
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/hedgepoint/exposure.png" alt="Exposure: every currency at a glance, hedged versus open" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/hedgepoint/simulator.png" alt="Hedge simulator: test a hedge before you trade" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/hedgepoint/tenants.png" alt="Multi-tenant: every client sealed off, 6 permission-scoped roles, 8 audit reports" width="31%" />
+</p>
+<p align="center">
+  <sub><b>Exposure</b> at a glance &nbsp;·&nbsp; <b>Hedges</b> tested before trading &nbsp;·&nbsp; <b>Every client</b> sealed off</sub>
+</p>
+
+Trade ledger, hedge simulator, back-testing, broker benchmarking and **8 audit reports across 6 permission-scoped roles**, with live market-data pricing. It replaced a single-file app, a JSON-backed microservice and a nightly cron with **one Laravel + React + PostgreSQL application**.
+
+`Laravel 12` `React 19` `TypeScript` `PostgreSQL 17` `Stripe`
+
+<div align="center">
+
+<a href="mailto:princesanguan44@gmail.com?subject=SaaS%20platform"><img src="https://img.shields.io/badge/Build_my_platform-2DD4BF?style=for-the-badge&logo=gmail&logoColor=black" alt="Build my platform" /></a>
+
+<sub>🔒 Private corporate platform, so there is no public link. Images are illustrations with made-up numbers, not the product's screens or data.</sub>
+
+</div>
+
+---
+
 ## 🚀 More Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 HedgePoint
-**FX Risk Management Platform** · *Primary developer*
-
-`🔒 Private — corporate treasury, no public link`
-
-**~2,950 of 3,195 commits — 93% of the codebase.** Shipping weekly.
-
-Trade ledger, hedge simulator, back-testing, broker benchmarking and **8 audit reports across 6 permission-scoped roles**, with live market-data pricing. It replaced a single-file app, a JSON-backed microservice and a nightly cron with **one Laravel + React + PostgreSQL application**.
-
-`Laravel 12` `React 19` `TypeScript` `PostgreSQL 17` `Stripe`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🏋️ BEN SaaS
 **Athlete Training Platform** · *Sole developer*
 
 **307 of 342 commits.** In real-world use by coaches and athletes: block-based programs, XP scoring, strength leaderboards and family accounts.
+
+</td>
+<td width="50%" valign="top">
 
 ### 📍 MapiLeads
 **AI Lead Generation SaaS** · *Sole developer*
@@ -238,7 +263,7 @@ Through **[StudentWebSolutions.com](https://studentwebsolutions.com)** I build c
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PrinceSanguan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9&ring_color=FF6B35" alt="GitHub stats" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSanguan&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=hack,scss,html,css,less&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" alt="Top languages" />
 
-<sub>📌 Public repos only — most of my production work, including ~2,950 commits on the FX platform, lives in private client codebases.</sub>
+<sub>📌 Public repos only — most of my production work, including 3,000+ commits on the FX platform, lives in private client codebases.</sub>
 
 </div>
 
