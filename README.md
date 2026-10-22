@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/App_users-10%2C000%2B-22C55E?style=flat-square&labelColor=0D1117" alt="10000+ users" />
   <img src="https://img.shields.io/badge/Paying_subscribers-100%2B-22C55E?style=flat-square&labelColor=0D1117" alt="100+ paying" />
   <img src="https://img.shields.io/badge/Shipped_to-App_Store_%2B_Play_Store-0D96F6?style=flat-square&labelColor=0D1117" alt="App stores" />
-  <img src="https://img.shields.io/badge/Kara--okay_downloads-3%2C800%2B-00C39A?style=flat-square&labelColor=0D1117" alt="3,800+ Kara-okay downloads" />
+  <img src="https://img.shields.io/badge/Kara--okay_downloads-3%2C800%2B-00C39A?style=flat-square&labelColor=0D1117" alt="20000+ Kara-okay downloads" />
   <img src="https://img.shields.io/badge/MT5_trading_bots-2_delivered-F5B301?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iNC41IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxNSIvPjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIuNiIvPjxyZWN0IHg9IjExLjUiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEzIi8%2BPHJlY3QgeD0iMTAiIHk9IjQiIHdpZHRoPSI0IiBoZWlnaHQ9IjgiIHJ4PSIuNiIvPjxyZWN0IHg9IjE4LjUiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjE1Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iLjYiLz48L3N2Zz4%3D" alt="2 MT5 trading bots delivered" />
   <img src="https://img.shields.io/badge/Profile_views-14K%2B-FF6B35?style=flat-square&labelColor=0D1117" alt="14K+ profile views" />
 </p>
