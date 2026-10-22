@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+AI+%C2%B7+Trading+bots;Biyaherong+Chess+Coach+%C2%B7+10K%2B+downloads;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Production+systems+since+2020" alt="AI Full Stack Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+AI+%C2%B7+Trading+bots;Biyaherong+Chess+Coach+%C2%B7+20K%2B+downloads;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Production+systems+since+2020" alt="AI Full Stack Engineer" />
 
 # Prince E. Sanguan
 
@@ -16,10 +16,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Experience-6%2B_years-FF6B35?style=flat-square&labelColor=0D1117" alt="6+ years" />
-  <img src="https://img.shields.io/badge/App_users-10%2C000%2B-22C55E?style=flat-square&labelColor=0D1117" alt="10000+ users" />
-  <img src="https://img.shields.io/badge/Paying_subscribers-100%2B-22C55E?style=flat-square&labelColor=0D1117" alt="100+ paying" />
+  <img src="https://img.shields.io/badge/App_users-20%2C000%2B-22C55E?style=flat-square&labelColor=0D1117" alt="20000+ users" />
+  <img src="https://img.shields.io/badge/Paying_subscribers-300%2B-22C55E?style=flat-square&labelColor=0D1117" alt="300+ paying" />
   <img src="https://img.shields.io/badge/Shipped_to-App_Store_%2B_Play_Store-0D96F6?style=flat-square&labelColor=0D1117" alt="App stores" />
-  <img src="https://img.shields.io/badge/Kara--okay_downloads-3%2C800%2B-00C39A?style=flat-square&labelColor=0D1117" alt="20000+ Kara-okay downloads" />
+  <img src="https://img.shields.io/badge/Kara--okay_Android_downloads-25%2C000%2B-00C39A?style=flat-square&labelColor=0D1117" alt="25000+ Kara-okay Android downloads" />
   <img src="https://img.shields.io/badge/MT5_trading_bots-2_delivered-F5B301?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iNC41IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxNSIvPjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIuNiIvPjxyZWN0IHg9IjExLjUiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEzIi8%2BPHJlY3QgeD0iMTAiIHk9IjQiIHdpZHRoPSI0IiBoZWlnaHQ9IjgiIHJ4PSIuNiIvPjxyZWN0IHg9IjE4LjUiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjE1Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iLjYiLz48L3N2Zz4%3D" alt="2 MT5 trading bots delivered" />
   <img src="https://img.shields.io/badge/Profile_views-14K%2B-FF6B35?style=flat-square&labelColor=0D1117" alt="14K+ profile views" />
 </p>
@@ -60,7 +60,7 @@ I build production software end to end, from the database to the app in your cus
 <a href="https://github.com/PrinceSanguan/BIYAHERONG-CHESS-APP"><img src="https://img.shields.io/badge/See_the_project-GitHub-0F1D37?style=for-the-badge&logo=github&logoColor=white" alt="See the project" /></a>
 
 **Chess training for Filipino players, from FIDE Master Deniel Causo.**<br/>
-**10,000+ downloads · 100+ paying subscribers.** Backend, Android app and a native, offline iPhone app — built and shipped by me.
+**20,000+ downloads on iOS & Android · 300+ paying subscribers.** Backend, Android app and a native, offline iPhone app — built and shipped by me.
 
 </div>
 
@@ -92,7 +92,7 @@ I build production software end to end, from the database to the app in your cus
 <img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free" />
 
 **The Filipino videoke night, on your phone and your TV.**<br/>
-**3,800+ downloads.** Idea, design, app, audio engine, server and release — built and shipped by me alone.
+**25,000+ downloads on Android.** Idea, design, app, audio engine, server and release — built and shipped by me alone.
 
 </div>
 
