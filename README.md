@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+AI+%C2%B7+Trading+bots;Biyaherong+Chess+Coach+%C2%B7+20K%2B+downloads;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Production+systems+since+2020" alt="AI Full Stack Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+AI+%C2%B7+Trading+bots;Biyaherong+Chess+Coach+%C2%B7+20K%2B+downloads;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Creator+of+Mobi-Okay+%C2%B7+free+movie+%26+series+app;Production+systems+since+2020" alt="AI Full Stack Engineer" />
 
 # Prince E. Sanguan
 
@@ -36,8 +36,8 @@ I build production software end to end, from the database to the app in your cus
 
 | | What you get | Proof |
 |---|---|---|
-| 🌐 **Web apps & SaaS** | Accounts, roles, payments and admin dashboards on Laravel + React + PostgreSQL | HedgePoint · BEN SaaS · MapiLeads |
-| 📱 **Mobile apps** | Native iOS (Swift) and Android (Kotlin), or React Native, published to the App Store and Google Play | Biyaherong Chess Coach · Kara-okay |
+| 🌐 **Web apps & SaaS** | Accounts, roles, payments and admin dashboards on Laravel + React + PostgreSQL | BEN SaaS · MapiLeads |
+| 📱 **Mobile apps** | Native iOS (Swift) and Android (Kotlin), or React Native, published to the App Store and Google Play | Biyaherong Chess Coach · Kara-okay · Mobi-Okay |
 | 🤖 **AI features** | Claude and Gemini pipelines that research, analyse and draft, with guardrails and per-client keys | MapiLeads |
 | 📈 **MT5 trading bots** | Your strategy as an MQL5 Expert Advisor, backtested on real tick data before it trades | 2 bots delivered |
 | 🎓 **Capstone systems** | Defense-ready systems for Filipino students, from ₱10,000 | Barangay · EMS · clinic · POS |
@@ -112,6 +112,38 @@ I build production software end to end, from the database to the app in your cus
 
 ---
 
+## 🎬 Mobi-Okay — Creator & Sole Developer
+
+<div align="center">
+
+<a href="https://github.com/PrinceSanguan/MOBI-OKAY"><img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/banner.png" alt="Mobi-Okay: libreng sine sa bulsa mo" width="100%" /></a>
+
+<a href="https://github.com/PrinceSanguan/MOBI-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-APK-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download the APK" /></a>
+<a href="https://github.com/PrinceSanguan/MOBI-OKAY"><img src="https://img.shields.io/badge/See_the_project-GitHub-00301F?style=for-the-badge&logo=github&logoColor=white" alt="See the project" /></a>
+<img src="https://img.shields.io/badge/Version-1.0.0-00301F?style=for-the-badge" alt="Version 1.0.0" />
+<img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free" />
+
+**A free, clean movie & series app for Android — the sibling of Kara-okay.**<br/>
+**No ads, no malware, no sign-up.** Catalog, playback, offline downloads and Android TV — built and shipped by me alone.
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/shot-home.png" alt="Home: trending movies, series, K-drama and anime" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/shot-detail.png" alt="Movie details: play or download in one tap" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/shot-series.png" alt="Series: episodes by season, each downloadable" width="31%" />
+</p>
+
+- **No app server:** Kotlin stream extractors resolve sources on the device and fall back across hosts, straight into Media3 / ExoPlayer; the TMDB catalog comes through a Cloudflare Worker edge proxy that keeps the API key off the phone
+- **Offline downloads** with Media3 DownloadService, auto-resume, keyless subtitles and **Android TV** support
+- **Hardened release:** R8 obfuscation, a signing-certificate tamper check, and a same-signer **in-app auto-updater** from GitHub Releases
+
+`Kotlin` `Jetpack Compose` `Media3 / ExoPlayer` `TMDB` `Cloudflare Workers` `R8`
+
+---
+
 ## 🤖 Trading Bots for MetaTrader 5
 
 <div align="center">
@@ -141,42 +173,6 @@ I build production software end to end, from the database to the app in your cus
 <a href="mailto:princesanguan44@gmail.com?subject=MT5%20trading%20bot"><img src="https://img.shields.io/badge/Automate_my_strategy-F5B301?style=for-the-badge&logo=gmail&logoColor=black" alt="Automate my strategy" /></a>
 
 <sub>Illustrations, not a client's chart. Every bot is built exclusively for its owner: strategies, settings and source code are never shared, published or resold.</sub>
-
-</div>
-
----
-
-## 🏦 HedgePoint — FX Risk Management Platform
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/hedgepoint/banner.png" alt="HedgePoint: currency risk, under control" width="100%" />
-
-**When a currency moves, companies that buy or sell abroad lose money. HedgePoint shows a treasury team every exposure, lets them test a hedge before they trade, and tracks every trade after.**<br/>
-**Primary developer: 3,086 of 3,337 commits (92%) in 8 months** · shipping weekly.
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/hedgepoint/exposure.png" alt="Exposure: every currency at a glance, hedged versus open" width="31%" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/hedgepoint/simulator.png" alt="Hedge simulator: test a hedge before you trade" width="31%" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PrinceSanguan/PrinceSanguan/main/assets/hedgepoint/tenants.png" alt="Multi-tenant: every client sealed off, 6 permission-scoped roles, 8 audit reports" width="31%" />
-</p>
-<p align="center">
-  <sub><b>Exposure</b> at a glance &nbsp;·&nbsp; <b>Hedges</b> tested before trading &nbsp;·&nbsp; <b>Every client</b> sealed off</sub>
-</p>
-
-Trade ledger, hedge simulator, back-testing, broker benchmarking and **8 audit reports across 6 permission-scoped roles**, with live market-data pricing. It replaced a single-file app, a JSON-backed microservice and a nightly cron with **one Laravel + React + PostgreSQL application**.
-
-`Laravel 12` `React 19` `TypeScript` `PostgreSQL 17` `Stripe`
-
-<div align="center">
-
-<a href="mailto:princesanguan44@gmail.com?subject=SaaS%20platform"><img src="https://img.shields.io/badge/Build_my_platform-2DD4BF?style=for-the-badge&logo=gmail&logoColor=black" alt="Build my platform" /></a>
-
-<sub>🔒 Private corporate platform, so there is no public link. Images are illustrations with made-up numbers, not the product's screens or data.</sub>
 
 </div>
 
@@ -256,7 +252,7 @@ Trade ledger, hedge simulator, back-testing, broker benchmarking and **8 audit r
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PrinceSanguan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9&ring_color=FF6B35" alt="GitHub stats" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSanguan&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=hack,scss,html,css,less&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" alt="Top languages" />
 
-<sub>📌 Public repos only — most of my production work, including 3,000+ commits on the FX platform, lives in private client codebases.</sub>
+<sub>📌 Public repos only — most of my production work, including 3,000+ commits on a private FX platform, lives in private client codebases.</sub>
 
 </div>
 
