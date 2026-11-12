@@ -112,37 +112,6 @@ I build production software end to end, from the database to the app in your cus
 
 ---
 
-## 🎬 Mobi-Okay — Creator & Sole Developer
-
-<div align="center">
-
-<a href="https://github.com/PrinceSanguan/MOBI-OKAY"><img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/banner.png" alt="Mobi-Okay: libreng sine sa bulsa mo" width="100%" /></a>
-
-<a href="https://github.com/PrinceSanguan/MOBI-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-APK-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download the APK" /></a>
-<a href="https://github.com/PrinceSanguan/MOBI-OKAY"><img src="https://img.shields.io/badge/See_the_project-GitHub-00301F?style=for-the-badge&logo=github&logoColor=white" alt="See the project" /></a>
-<img src="https://img.shields.io/badge/Version-1.0.0-00301F?style=for-the-badge" alt="Version 1.0.0" />
-<img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free" />
-
-**A free, clean movie & series app for Android — the sibling of Kara-okay.**<br/>
-**No ads, no malware, no sign-up.** Catalog, playback, offline downloads and Android TV — built and shipped by me alone.
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/shot-home.png" alt="Home: trending movies, series, K-drama and anime" width="31%" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/shot-detail.png" alt="Movie details: play or download in one tap" width="31%" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/shot-series.png" alt="Series: episodes by season, each downloadable" width="31%" />
-</p>
-
-- **No app server:** Kotlin stream extractors resolve sources on the device and fall back across hosts, straight into Media3 / ExoPlayer; the TMDB catalog comes through a Cloudflare Worker edge proxy that keeps the API key off the phone
-- **Offline downloads** with Media3 DownloadService, auto-resume, keyless subtitles and **Android TV** support
-- **Hardened release:** R8 obfuscation, a signing-certificate tamper check, and a same-signer **in-app auto-updater** from GitHub Releases
-
-`Kotlin` `Jetpack Compose` `Media3 / ExoPlayer` `TMDB` `Cloudflare Workers` `R8`
-
----
 
 ## 🤖 Trading Bots for MetaTrader 5
 
