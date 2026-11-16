@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+AI+%C2%B7+Trading+bots;Biyaherong+Chess+Coach+%C2%B7+20K%2B+downloads;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Developer+of+POWER+BEAT+%C2%B7+free+DJ+mixer+app;Production+systems+since+2020" alt="AI Full Stack Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+AI+%C2%B7+Trading+bots;Biyaherong+Chess+Coach+%C2%B7+20K%2B+downloads;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Creator+of+Radio+Okay+%C2%B7+FM%2C+AM+%26+world+radio;Developer+of+POWER+BEAT+%C2%B7+free+DJ+mixer+app;Production+systems+since+2020" alt="AI Full Stack Engineer" />
 
 # Prince E. Sanguan
 
@@ -38,7 +38,7 @@ I build production software end to end, from the database to the app in your cus
 | | What you get | Proof |
 |---|---|---|
 | 🌐 **Web apps & SaaS** | Accounts, roles, payments and admin dashboards on Laravel + React + PostgreSQL | BEN SaaS · MapiLeads |
-| 📱 **Mobile apps** | Native iOS (Swift) and Android (Kotlin), or React Native, published to the App Store and Google Play | Biyaherong Chess Coach · Kara-okay · POWER BEAT |
+| 📱 **Mobile apps** | Native iOS (Swift) and Android (Kotlin), or React Native, published to the App Store and Google Play | Biyaherong Chess Coach · Kara-okay · Radio Okay · POWER BEAT |
 | 🤖 **AI features** | Claude and Gemini pipelines that research, analyse and draft, with guardrails and per-client keys | MapiLeads |
 | 📈 **MT5 trading bots** | Your strategy as an MQL5 Expert Advisor, backtested on real tick data before it trades | 2 bots delivered |
 | 🎓 **Capstone systems** | Defense-ready systems for Filipino students, from ₱10,000 | Barangay · EMS · clinic · POS |
@@ -110,6 +110,36 @@ I build production software end to end, from the database to the app in your cus
 - **Android TV + phone remote:** the TV runs its own small server, and guests scan a QR code to reserve songs from any phone
 
 `Kotlin` `Jetpack Compose` `C++ / JNI` `FluidSynth` `Media3` `WorkManager` `Next.js 16` `Cloudflare R2`
+
+---
+
+## 📻 Radio Okay — Free FM, AM & World Radio for Android
+
+<div align="center">
+
+<a href="https://github.com/PrinceSanguan/RADIO-OKAY"><img src="https://raw.githubusercontent.com/PrinceSanguan/RADIO-OKAY/main/docs/readme/banner.png" alt="Radio Okay: radio in your pocket" width="100%" /></a>
+
+<a href="https://github.com/PrinceSanguan/RADIO-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-APK-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download the APK" /></a>
+<a href="https://github.com/PrinceSanguan/RADIO-OKAY"><img src="https://img.shields.io/badge/See_the_project-GitHub-00301F?style=for-the-badge&logo=github&logoColor=white" alt="See the project" /></a>
+<img src="https://img.shields.io/badge/Version-1.0.0-00301F?style=for-the-badge" alt="Version 1.0.0" />
+<img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free" />
+
+**Philippine FM & AM stations and the world's radio, with a dial that feels like the radio at home.**<br/>
+**The newest sister app of Kara-okay.** Idea, design, app, audio pipeline and releases — built and shipped by me.
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/RADIO-OKAY/main/docs/readme/features.png" alt="Radio Okay features: FM dial, AM, world radio, search, favorites, recording, radio alarm, listening stats, history, offline mode, device check" width="100%" />
+</p>
+
+- **LED dial over live streams:** about 700 Philippine stations on an FM/AM dial with seek, auto scan that tests each stream, and P1–P6 presets, plus thousands of stations from every country
+- **Own audio pipeline on Media3:** a custom AudioProcessor runs the 10-band EQ, bass and treble shelves, balance, stereo widen and volume leveling, and feeds the visualizer's FFT — no microphone permission
+- **Recording and radio alarms:** one-tap and scheduled stream recording in a foreground service, and alarms that fall back to a tone if the stream fails
+- **Updates itself outside the Play Store:** checks GitHub Releases, verifies the SHA-256, package and signing key, then installs through PackageInstaller
+- **Free for everyone:** no ads, no account, no tracking, with an optional GCash donate button
+
+`Kotlin` `Jetpack Compose` `Media3 / ExoPlayer` `Custom DSP` `FFT` `OkHttp` `PackageInstaller` `Foreground service`
 
 ---
 
