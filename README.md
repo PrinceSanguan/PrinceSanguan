@@ -243,8 +243,8 @@ I build production software end to end, from the database to the app in your cus
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PrinceSanguan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9&ring_color=FF6B35" alt="GitHub stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSanguan&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=hack,scss,html,css,less&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" alt="Top languages" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrinceSanguan&theme=github_dark" alt="GitHub stats" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceSanguan&theme=github_dark" alt="Top languages" />
 
 <sub>📌 Public repos only — most of my production work, including 3,000+ commits on a private FX platform, lives in private client codebases.</sub>
 
