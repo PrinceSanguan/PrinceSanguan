@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+AI+%C2%B7+Trading+bots;Biyaherong+Chess+Coach+%C2%B7+20K%2B+downloads;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Creator+of+Radio+Okay+%C2%B7+FM%2C+AM+%26+world+radio;Developer+of+POWER+BEAT+%C2%B7+free+DJ+mixer+app;Production+systems+since+2020" alt="AI Full Stack Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=FF6B35&center=true&vCenter=true&width=760&lines=AI+Full+Stack+Engineer;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+AI+%C2%B7+Trading+bots;Biyaherong+Chess+Coach+%C2%B7+20K%2B+downloads;Creator+of+Kara-okay+%C2%B7+videoke+on+Android+%26+TV;Creator+of+Radio+Okay+%C2%B7+FM%2C+AM+%26+world+radio;Creator+of+Mobi-Okay+%C2%B7+free+movies+%26+series+app;Production+systems+since+2020" alt="AI Full Stack Engineer" />
 
 # Prince E. Sanguan
 
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Paying_subscribers-300%2B-22C55E?style=flat-square&labelColor=0D1117" alt="300+ paying" />
   <img src="https://img.shields.io/badge/Shipped_to-App_Store_%2B_Play_Store-0D96F6?style=flat-square&labelColor=0D1117" alt="App stores" />
   <img src="https://img.shields.io/badge/Kara--okay_Android_downloads-25%2C000%2B-00C39A?style=flat-square&labelColor=0D1117" alt="25000+ Kara-okay Android downloads" />
-  <img src="https://img.shields.io/github/downloads/PrinceSanguan/POWERBEAT/total?style=flat-square&label=POWER%20BEAT%20downloads&labelColor=0D1117&color=F2B632" alt="POWER BEAT downloads on GitHub" />
+  <img src="https://img.shields.io/github/downloads/PrinceSanguan/MOBI-OKAY/total?style=flat-square&label=Mobi-Okay%20downloads&labelColor=0D1117&color=4ADE80" alt="Mobi-Okay downloads on GitHub" />
   <img src="https://img.shields.io/badge/MT5_trading_bots-2_delivered-F5B301?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iNC41IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxNSIvPjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIuNiIvPjxyZWN0IHg9IjExLjUiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEzIi8%2BPHJlY3QgeD0iMTAiIHk9IjQiIHdpZHRoPSI0IiBoZWlnaHQ9IjgiIHJ4PSIuNiIvPjxyZWN0IHg9IjE4LjUiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjE1Ii8%2BPHJlY3QgeD0iMTciIHk9IjEwIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iLjYiLz48L3N2Zz4%3D" alt="2 MT5 trading bots delivered" />
   <img src="https://img.shields.io/badge/Profile_views-14K%2B-FF6B35?style=flat-square&labelColor=0D1117" alt="14K+ profile views" />
 </p>
@@ -38,7 +38,7 @@ I build production software end to end, from the database to the app in your cus
 | | What you get | Proof |
 |---|---|---|
 | 🌐 **Web apps & SaaS** | Accounts, roles, payments and admin dashboards on Laravel + React + PostgreSQL | BEN SaaS · MapiLeads |
-| 📱 **Mobile apps** | Native iOS (Swift) and Android (Kotlin), or React Native, published to the App Store and Google Play | Biyaherong Chess Coach · Kara-okay · Radio Okay · POWER BEAT |
+| 📱 **Mobile apps** | Native iOS (Swift) and Android (Kotlin), or React Native, published to the App Store and Google Play | Biyaherong Chess Coach · Kara-okay · Radio Okay · Mobi-Okay |
 | 🤖 **AI features** | Claude and Gemini pipelines that research, analyse and draft, with guardrails and per-client keys | MapiLeads |
 | 📈 **MT5 trading bots** | Your strategy as an MQL5 Expert Advisor, backtested on real tick data before it trades | 2 bots delivered |
 | 🎓 **Capstone systems** | Defense-ready systems for Filipino students, from ₱10,000 | Barangay · EMS · clinic · POS |
@@ -143,28 +143,39 @@ I build production software end to end, from the database to the app in your cus
 
 ---
 
-
-## 🎧 POWER BEAT — Free DJ Drops & Mixer for Android
+## 🎬 Mobi-Okay — Free Movies & Series for Android & TV
 
 <div align="center">
 
-<a href="https://github.com/PrinceSanguan/POWERBEAT/releases/latest"><img src="https://img.shields.io/badge/Download-APK-F2B632?style=for-the-badge&logo=android&logoColor=black" alt="Download the APK" /></a>
-<a href="https://github.com/PrinceSanguan/POWERBEAT"><img src="https://img.shields.io/badge/See_the_project-GitHub-07060A?style=for-the-badge&logo=github&logoColor=white" alt="See the project" /></a>
-<img src="https://img.shields.io/badge/Version-1.3.0-07060A?style=for-the-badge" alt="Version 1.3.0" />
-<img src="https://img.shields.io/badge/Price-Free-F2B632?style=for-the-badge&labelColor=07060A" alt="Free" />
-<img src="https://img.shields.io/github/downloads/PrinceSanguan/POWERBEAT/total?style=for-the-badge&label=Downloads&labelColor=07060A&color=E3232C" alt="Downloads on GitHub" />
+<a href="https://github.com/PrinceSanguan/MOBI-OKAY"><img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/banner.png" alt="Mobi-Okay: free movies and series on Android" width="100%" /></a>
 
-**Drops, sound FX, two decks and a mic for the Filipino disco, program and sound-system rental — offline, on any Android phone.**<br/>
-**2,000+ downloads on GitHub.** App, real-time audio engine and releases — built and shipped by me.
+<a href="https://github.com/PrinceSanguan/MOBI-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-APK-4ADE80?style=for-the-badge&logo=android&logoColor=black" alt="Download the APK" /></a>
+<a href="https://github.com/PrinceSanguan/MOBI-OKAY"><img src="https://img.shields.io/badge/See_the_project-GitHub-06483A?style=for-the-badge&logo=github&logoColor=white" alt="See the project" /></a>
+<img src="https://img.shields.io/badge/Version-1.1.0-06483A?style=for-the-badge" alt="Version 1.1.0" />
+<img src="https://img.shields.io/badge/Price-Free-4ADE80?style=for-the-badge&labelColor=06483A" alt="Free" />
+<img src="https://img.shields.io/github/downloads/PrinceSanguan/MOBI-OKAY/total?style=for-the-badge&label=Downloads&labelColor=06483A&color=4ADE80" alt="Downloads on GitHub" />
+
+**Movies, series, K-drama and anime with subtitles, on your phone and your TV — no ads, no sign-up.**<br/>
+**2,000+ downloads on GitHub.** A sister app of Kara-okay — app, playback engine and releases built and shipped by me.
 
 </div>
 
-- **Real-time audio engine:** one low-latency AudioTrack fed by a lock-free mixer thread, with a buffer that grows only when the phone reports an underrun
-- **Pads that fire instantly:** the first half-second of every drop stays decoded in RAM while the rest streams from a memory-mapped cache
-- **DJ tools built from scratch:** FFT BPM detection, WSOLA key lock, beat-matched AUTO-MIX with a bass swap, and a live mic channel with noise gate and auto-duck
-- **Free for everyone,** with an optional GCash donate button; PRO unlocks offline with a per-phone key
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/shot-home.png" alt="Home: trending movies and series" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/shot-detail.png" alt="A movie: play it now or download it for offline" width="31%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PrinceSanguan/MOBI-OKAY/main/docs/shot-series.png" alt="A series: every episode can be played or downloaded" width="31%" />
+</p>
 
-`Kotlin` `Jetpack Compose` `AudioTrack` `Real-time DSP` `FFT` `WSOLA` `Coroutines` `Foreground service`
+- **Plays straight from the source:** client-side extractors find a direct stream up to 1080p, and if a server dies mid-movie the player switches to the next one and keeps going
+- **Offline downloads with real progress:** a Media3 download service that shows the percent, carries on from where it broke off, and plays with the internet off
+- **Phone and Android TV:** Picture-in-Picture, subtitles, "Continue watching" and remote-friendly navigation on the TV
+- **TMDB catalog through a Cloudflare Worker:** the API key stays on the edge, never in the app, and cached responses serve every user
+- **Updates itself outside the Play Store:** checks GitHub Releases, verifies the package, version and signing key, then installs through PackageInstaller
+- **Free for everyone:** no ads, no account, no tracking, with an optional GCash support button
+
+`Kotlin` `Jetpack Compose` `Media3 / ExoPlayer` `HLS` `Offline downloads` `OkHttp` `Retrofit + Moshi` `Cloudflare Workers` `PackageInstaller`
 
 ---
 
